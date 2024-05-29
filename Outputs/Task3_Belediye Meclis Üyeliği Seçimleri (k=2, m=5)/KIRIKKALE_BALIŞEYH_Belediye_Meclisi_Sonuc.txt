@@ -1,0 +1,8 @@
+KIRIKKALE BALIÞEYH Belediye Meclisi Seçilen Mahalleler
+
+c_BALLI_MAH. = 0.28490095897281376
+c_YENI_MAH. = 0.7150990410271862
+x_BALLI_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.001684237971022462

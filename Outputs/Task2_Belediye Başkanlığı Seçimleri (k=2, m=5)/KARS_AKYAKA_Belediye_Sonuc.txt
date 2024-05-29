@@ -1,0 +1,8 @@
+KARS AKYAKA Belediyesi Seçilen Mahalleler
+
+c_TEPE_MAH. = 0.620076624642445
+c_TOPKAYA_MAH. = 0.37992337535755505
+x_TEPE_MAH. = 1.0
+x_TOPKAYA_MAH. = 1.0
+
+Optimal objective value: 0.0020934927856712804

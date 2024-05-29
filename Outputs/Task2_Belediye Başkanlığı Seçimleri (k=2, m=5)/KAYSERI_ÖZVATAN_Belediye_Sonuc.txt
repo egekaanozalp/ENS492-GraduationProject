@@ -1,0 +1,8 @@
+KAYSERI ÖZVATAN Belediyesi Seçilen Mahalleler
+
+c_KAVAKLI_MAH. = 0.316477740005803
+c_YENI_MAH. = 0.683522259994197
+x_KAVAKLI_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.002040966996013971

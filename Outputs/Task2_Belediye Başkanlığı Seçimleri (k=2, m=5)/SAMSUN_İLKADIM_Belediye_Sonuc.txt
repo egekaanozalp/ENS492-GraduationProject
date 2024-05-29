@@ -1,0 +1,8 @@
+SAMSUN ÝLKADIM Belediyesi Seçilen Mahalleler
+
+c_DERECIK_MAH. = 0.4946233829968367
+c_KISLA_MAH. = 0.5053766170031633
+x_DERECIK_MAH. = 1.0
+x_KISLA_MAH. = 1.0
+
+Optimal objective value: 0.0005507596275882154

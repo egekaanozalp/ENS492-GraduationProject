@@ -1,0 +1,8 @@
+AYDIN KÖÞK Belediye Meclisi Seçilen Mahalleler
+
+c_AHATLAR_MAH. = 0.24940045818918233
+c_CARSI_MAH. = 0.7505995418108177
+x_AHATLAR_MAH. = 1.0
+x_CARSI_MAH. = 1.0
+
+Optimal objective value: 0.0010957195649033968

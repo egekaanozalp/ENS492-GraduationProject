@@ -1,0 +1,8 @@
+IÐDIR ARALIK Belediye Meclisi Seçilen Mahalleler
+
+c_KARASU_MAH. = 0.2801277337303655
+c_KOPRULER_MAH. = 0.7198722662696345
+x_KARASU_MAH. = 1.0
+x_KOPRULER_MAH. = 1.0
+
+Optimal objective value: 0.00304850099984455

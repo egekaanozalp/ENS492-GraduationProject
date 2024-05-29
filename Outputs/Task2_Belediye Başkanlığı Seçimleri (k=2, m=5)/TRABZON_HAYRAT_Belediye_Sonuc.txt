@@ -1,0 +1,7 @@
+TRABZON HAYRAT Belediyesi Seçilen Mahalleler
+
+c_CAYCILAR_MAH. = 1.0
+x_BALABAN_MAH. = 1.0
+x_CAYCILAR_MAH. = 1.0
+
+Optimal objective value: 0.019873562637376718

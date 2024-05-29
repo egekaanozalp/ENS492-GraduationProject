@@ -1,0 +1,7 @@
+CANKIRI ÇERKEÞ - SAÇAK Belediyesi Seçilen Mahalleler
+
+c_SACAK-YENI_MAH. = 1.0
+x_SACAK-KAYABASI_MAH. = 1.0
+x_SACAK-YENI_MAH. = 1.0
+
+Optimal objective value: 0.23289772659708086

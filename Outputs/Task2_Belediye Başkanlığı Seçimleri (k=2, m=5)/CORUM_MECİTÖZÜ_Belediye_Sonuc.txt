@@ -1,0 +1,8 @@
+CORUM MECÝTÖZÜ Belediyesi Seçilen Mahalleler
+
+c_TUTLUK_MAH. = 0.6168250499013926
+c_SEHLER_MAH. = 0.38317495009860736
+x_TUTLUK_MAH. = 1.0
+x_SEHLER_MAH. = 1.0
+
+Optimal objective value: 0.000561329942127764

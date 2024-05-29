@@ -1,0 +1,8 @@
+BOLU GÖYNÜK Belediye Meclisi Seçilen Mahalleler
+
+c_CUMA_MAH. = 0.20740118898437443
+c_CESME_MAH. = 0.7925988110156256
+x_CUMA_MAH. = 1.0
+x_CESME_MAH. = 1.0
+
+Optimal objective value: 0.0010295669559785559

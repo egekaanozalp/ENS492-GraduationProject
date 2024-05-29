@@ -1,0 +1,8 @@
+MUÐLA DALAMAN Belediye Meclisi Seçilen Mahalleler
+
+c_KAYADIBI_MAH. = 0.1434502436673083
+c_MERKEZ_MAH. = 0.8565497563326917
+x_KAYADIBI_MAH. = 1.0
+x_MERKEZ_MAH. = 1.0
+
+Optimal objective value: 0.0007269061979742197

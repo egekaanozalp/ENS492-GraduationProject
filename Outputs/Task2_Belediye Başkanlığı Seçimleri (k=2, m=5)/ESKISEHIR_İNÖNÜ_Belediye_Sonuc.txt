@@ -1,0 +1,8 @@
+ESKISEHIR ÝNÖNÜ Belediyesi Seçilen Mahalleler
+
+c_DUTLUCA_MAH. = 0.3672657036882483
+c_ESNEMEZ_MAH. = 0.6327342963117517
+x_DUTLUCA_MAH. = 1.0
+x_ESNEMEZ_MAH. = 1.0
+
+Optimal objective value: 0.003166756531463477

@@ -1,0 +1,8 @@
+BÝTLÝS ADÝLCEVAZ Belediye Meclisi Seçilen Mahalleler
+
+c_ATATURK_MAH. = 0.30280255586614135
+c_CEVIZLI_MAH. = 0.6971974441338586
+x_ATATURK_MAH. = 1.0
+x_CEVIZLI_MAH. = 1.0
+
+Optimal objective value: 0.011244178697454532

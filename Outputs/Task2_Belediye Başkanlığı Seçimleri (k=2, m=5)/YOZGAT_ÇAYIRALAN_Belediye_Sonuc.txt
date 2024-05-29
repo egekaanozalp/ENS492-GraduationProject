@@ -1,0 +1,8 @@
+YOZGAT ÇAYIRALAN Belediyesi Seçilen Mahalleler
+
+c_AVCILAR_MAH. = 0.2489515081655267
+c_YENI_MAH. = 0.7510484918344733
+x_AVCILAR_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.0003635951696984163

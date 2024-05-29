@@ -1,0 +1,8 @@
+MANÝSA KULA Belediye Meclisi Seçilen Mahalleler
+
+c_4_EYLUL_MAH. = 0.8242826721319121
+c_AYAZOREN_MAH. = 0.17571732786808789
+x_4_EYLUL_MAH. = 1.0
+x_AYAZOREN_MAH. = 1.0
+
+Optimal objective value: 0.00019642532977948157

@@ -1,0 +1,8 @@
+KONYA BEYÞEHÝR Belediyesi Seçilen Mahalleler
+
+c_BAYAT_MAH. = 0.8273917577953496
+c_EGIRLER_MAH. = 0.17260824220467805
+x_BAYAT_MAH. = 1.0
+x_EGIRLER_MAH. = 1.0
+
+Optimal objective value: 0.034742203264362725

@@ -1,0 +1,8 @@
+BURSA ÝZNÝK Belediyesi Seçilen Mahalleler
+
+c_SELCUK_MAH. = 0.7658011778544028
+c_SEREFIYE_MAH. = 0.23419882214559717
+x_SELCUK_MAH. = 1.0
+x_SEREFIYE_MAH. = 1.0
+
+Optimal objective value: 0.0008701831313325803

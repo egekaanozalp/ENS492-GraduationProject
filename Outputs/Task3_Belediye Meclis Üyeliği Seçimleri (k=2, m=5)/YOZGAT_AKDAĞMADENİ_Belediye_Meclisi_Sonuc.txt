@@ -1,0 +1,8 @@
+YOZGAT AKDAÐMADENÝ Belediye Meclisi Seçilen Mahalleler
+
+c_EMEK_MAH. = 0.7610578065837614
+c_GUNEYLI_MAH. = 0.23894219341623857
+x_EMEK_MAH. = 1.0
+x_GUNEYLI_MAH. = 1.0
+
+Optimal objective value: 0.0007677227779213647

@@ -1,0 +1,8 @@
+HAKKARÝ YÜKSEKOVA Belediye Meclisi Seçilen Mahalleler
+
+c_YESILDERE_MAH. = 0.8923398326740805
+c_IPEK_MAH. = 0.10766016732591957
+x_YESILDERE_MAH. = 1.0
+x_IPEK_MAH. = 1.0
+
+Optimal objective value: 0.0006977005186004082

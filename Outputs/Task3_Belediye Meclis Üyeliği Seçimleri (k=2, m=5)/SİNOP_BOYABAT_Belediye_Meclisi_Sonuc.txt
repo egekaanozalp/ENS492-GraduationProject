@@ -1,0 +1,8 @@
+SÝNOP BOYABAT Belediye Meclisi Seçilen Mahalleler
+
+c_YENI_MAH. = 0.33890919123736385
+c_CAMLICA_MAH. = 0.6610908087626362
+x_YENI_MAH. = 1.0
+x_CAMLICA_MAH. = 1.0
+
+Optimal objective value: 0.0002743262836095717

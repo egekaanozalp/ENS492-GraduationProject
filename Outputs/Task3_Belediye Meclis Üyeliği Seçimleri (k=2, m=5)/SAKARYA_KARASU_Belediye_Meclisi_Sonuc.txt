@@ -1,0 +1,8 @@
+SAKARYA KARASU Belediye Meclisi Seçilen Mahalleler
+
+c_KABAKOZ__MAH. = 0.6008976663128458
+c_INCILLI__MAH. = 0.39910233368715425
+x_KABAKOZ__MAH. = 1.0
+x_INCILLI__MAH. = 1.0
+
+Optimal objective value: 0.0006319257448821336

@@ -1,0 +1,8 @@
+BURSA ÝZNÝK Belediye Meclisi Seçilen Mahalleler
+
+c_INIKLI_MAH. = 0.6789194568027707
+c_SEREFIYE_MAH. = 0.32108054319722934
+x_INIKLI_MAH. = 1.0
+x_SEREFIYE_MAH. = 1.0
+
+Optimal objective value: 0.0008566862782092288

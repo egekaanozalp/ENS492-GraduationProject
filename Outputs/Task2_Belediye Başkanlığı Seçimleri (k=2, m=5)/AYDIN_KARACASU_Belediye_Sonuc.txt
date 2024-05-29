@@ -1,0 +1,8 @@
+AYDIN KARACASU Belediyesi Seçilen Mahalleler
+
+c_ALEMLER_MAH. = 0.14697302584294544
+c_CUMA_MAH. = 0.8530269741570545
+x_ALEMLER_MAH. = 1.0
+x_CUMA_MAH. = 1.0
+
+Optimal objective value: 0.000724978027534795

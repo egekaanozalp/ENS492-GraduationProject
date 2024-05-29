@@ -1,0 +1,8 @@
+ANKARA ÇUBUK Belediye Meclisi Seçilen Mahalleler
+
+c_TUGLA_MAH. = 0.48903632240567174
+c_YIGITLI_MAH. = 0.5109636775943283
+x_TUGLA_MAH. = 1.0
+x_YIGITLI_MAH. = 1.0
+
+Optimal objective value: 0.002109560350946449

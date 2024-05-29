@@ -1,0 +1,8 @@
+KIRIKKALE BALIÞEYH Belediyesi Seçilen Mahalleler
+
+c_TOKI_MAH. = 0.4712718734085245
+c_YENI_MAH. = 0.5287281265914755
+x_TOKI_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.001163701510947468

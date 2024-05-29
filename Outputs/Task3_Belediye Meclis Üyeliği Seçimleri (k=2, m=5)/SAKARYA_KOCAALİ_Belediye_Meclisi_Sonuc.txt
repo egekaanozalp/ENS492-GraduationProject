@@ -1,0 +1,8 @@
+SAKARYA KOCAALÝ Belediye Meclisi Seçilen Mahalleler
+
+c_AKPINAR_MAH. = 0.47195750629607436
+c_AGALAR_MAH. = 0.5280424937039256
+x_AKPINAR_MAH. = 1.0
+x_AGALAR_MAH. = 1.0
+
+Optimal objective value: 0.0002449836898551494

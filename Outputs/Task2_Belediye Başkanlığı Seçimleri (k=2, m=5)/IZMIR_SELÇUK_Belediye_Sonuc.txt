@@ -1,0 +1,8 @@
+IZMIR SELÇUK Belediyesi Seçilen Mahalleler
+
+c_ACARLAR_MAH. = 0.4580740634385786
+c_ISA_BEY_MAH. = 0.541925936561422
+x_ACARLAR_MAH. = 1.0
+x_ISA_BEY_MAH. = 1.0
+
+Optimal objective value: 0.0004248247074593037

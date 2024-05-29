@@ -1,0 +1,7 @@
+SINOP BOYABAT Belediyesi Seçilen Mahalleler
+
+c_CAMLICA_MAH. = 1.0
+x_ZINCIRLIKUYU_MAH. = 1.0
+x_CAMLICA_MAH. = 1.0
+
+Optimal objective value: 0.0010324425774248525

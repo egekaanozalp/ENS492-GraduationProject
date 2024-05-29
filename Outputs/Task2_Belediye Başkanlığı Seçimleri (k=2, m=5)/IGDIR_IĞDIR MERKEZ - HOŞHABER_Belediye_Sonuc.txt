@@ -1,0 +1,7 @@
+IGDIR IÐDIR MERKEZ - HOÞHABER Belediyesi Seçilen Mahalleler
+
+c_HOSHABER-YENI_MAH. = 1.0
+x_HOSHABER-FARUKTOKA_MAH. = 1.0
+x_HOSHABER-YENI_MAH. = 1.0
+
+Optimal objective value: 0.00030846963748565326

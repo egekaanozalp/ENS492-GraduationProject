@@ -1,0 +1,8 @@
+ANTALYA GÜNDOÐMUÞ Belediyesi Seçilen Mahalleler
+
+c_FATIH_MAH. = 0.5522056880834405
+c_ORTAKOY_MAH. = 0.44779431191655955
+x_FATIH_MAH. = 1.0
+x_ORTAKOY_MAH. = 1.0
+
+Optimal objective value: 0.0007357478942224827

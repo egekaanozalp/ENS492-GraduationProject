@@ -1,0 +1,8 @@
+BOLU GEREDE Belediyesi Seçilen Mahalleler
+
+c_SEVILLER_MAH. = 0.40166482019763017
+c_YENI_MAH. = 0.5983351798023698
+x_SEVILLER_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.0008604785217930511

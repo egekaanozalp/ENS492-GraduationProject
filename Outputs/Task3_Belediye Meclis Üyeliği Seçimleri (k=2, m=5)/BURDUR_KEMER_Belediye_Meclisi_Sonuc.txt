@@ -1,0 +1,8 @@
+BURDUR KEMER Belediye Meclisi Seçilen Mahalleler
+
+c_SARAY_MAH. = 0.42191545773497585
+c_YENI_CAMII_MAH. = 0.5780845422650241
+x_SARAY_MAH. = 1.0
+x_YENI_CAMII_MAH. = 1.0
+
+Optimal objective value: 0.0013515412082991674

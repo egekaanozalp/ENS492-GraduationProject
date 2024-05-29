@@ -1,0 +1,7 @@
+KASTAMONU BOZKURT Belediyesi Seçilen Mahalleler
+
+c_MERKEZ_MAH. = 1.0
+x_HAMZA_MAH. = 1.0
+x_MERKEZ_MAH. = 1.0
+
+Optimal objective value: 0.0008809878992427356

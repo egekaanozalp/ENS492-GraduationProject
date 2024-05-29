@@ -1,0 +1,8 @@
+ÝZMÝR TORBALI Belediye Meclisi Seçilen Mahalleler
+
+c_SAGLIK_MAH. = 0.8933240447590339
+c_TASKESIK_MAH. = 0.10667595524096608
+x_SAGLIK_MAH. = 1.0
+x_TASKESIK_MAH. = 1.0
+
+Optimal objective value: 0.0021027470498281575

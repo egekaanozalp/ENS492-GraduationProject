@@ -1,0 +1,8 @@
+MALATYA AKÇADAÐ Belediye Meclisi Seçilen Mahalleler
+
+c_ESENBEY_MAH. = 0.3896433543643917
+c_GOLPINAR_MAH. = 0.6103566456356083
+x_ESENBEY_MAH. = 1.0
+x_GOLPINAR_MAH. = 1.0
+
+Optimal objective value: 0.003920436273874284

@@ -1,0 +1,8 @@
+DENÝZLÝ ÇÝVRÝL Belediye Meclisi Seçilen Mahalleler
+
+c_BEYKOY_MAH. = 0.45605571906235287
+c_SOKMEN_MAH. = 0.5439442809376471
+x_BEYKOY_MAH. = 1.0
+x_SOKMEN_MAH. = 1.0
+
+Optimal objective value: 0.0005212733920996193

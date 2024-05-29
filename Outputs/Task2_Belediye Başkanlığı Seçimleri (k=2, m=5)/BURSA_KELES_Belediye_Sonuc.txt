@@ -1,0 +1,8 @@
+BURSA KELES Belediyesi Seçilen Mahalleler
+
+c_CUMA_MAH. = 0.5344288637467922
+c_GOKOZ_MAH. = 0.46557113625320773
+x_CUMA_MAH. = 1.0
+x_GOKOZ_MAH. = 1.0
+
+Optimal objective value: 0.0008571448862380038

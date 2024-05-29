@@ -1,0 +1,8 @@
+BURSA KARACABEY Belediye Meclisi Seçilen Mahalleler
+
+c_ARIZ_MAH. = 0.734330821765864
+c_SAHINKOY_MAH. = 0.26566917823413605
+x_ARIZ_MAH. = 1.0
+x_SAHINKOY_MAH. = 1.0
+
+Optimal objective value: 0.0030866434636431794

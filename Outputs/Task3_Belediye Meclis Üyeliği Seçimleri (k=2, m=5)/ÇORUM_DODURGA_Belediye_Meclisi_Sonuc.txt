@@ -1,0 +1,8 @@
+ÇORUM DODURGA Belediye Meclisi Seçilen Mahalleler
+
+c_ESENTEPE_MAH. = 0.7415596056504916
+c_FATIH_MAH. = 0.25844039434950833
+x_ESENTEPE_MAH. = 1.0
+x_FATIH_MAH. = 1.0
+
+Optimal objective value: 0.0008804710508656388

@@ -1,0 +1,8 @@
+AGRI HAMUR Belediyesi Seçilen Mahalleler
+
+c_BUZHANE_MAH. = 0.37303714441722785
+c_YENI_MAH. = 0.6269628555827722
+x_BUZHANE_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.024650359011993417

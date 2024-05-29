@@ -1,0 +1,8 @@
+MALATYA ARGUVAN Belediyesi Seçilen Mahalleler
+
+c_DOYDUM_MAH. = 0.3984696358007027
+c_YAMAC_MAH. = 0.6015303641992973
+x_DOYDUM_MAH. = 1.0
+x_YAMAC_MAH. = 1.0
+
+Optimal objective value: 0.011686993978711646

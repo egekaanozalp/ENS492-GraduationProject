@@ -1,0 +1,8 @@
+BARTIN AMASRA Belediyesi Seçilen Mahalleler
+
+c_KALESAH_MAH. = 0.31058298826164243
+c_KUM_MAH. = 0.6894170117383576
+x_KALESAH_MAH. = 1.0
+x_KUM_MAH. = 1.0
+
+Optimal objective value: 0.0005245864471198347

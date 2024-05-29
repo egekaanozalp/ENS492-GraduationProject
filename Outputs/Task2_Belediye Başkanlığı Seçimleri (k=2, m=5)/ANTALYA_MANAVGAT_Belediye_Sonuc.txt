@@ -1,0 +1,8 @@
+ANTALYA MANAVGAT Belediyesi Seçilen Mahalleler
+
+c_A._HISAR_MAH. = 0.2716869667613877
+c_SELALE_MAH. = 0.7283130332386123
+x_A._HISAR_MAH. = 1.0
+x_SELALE_MAH. = 1.0
+
+Optimal objective value: 0.0002953078925330699

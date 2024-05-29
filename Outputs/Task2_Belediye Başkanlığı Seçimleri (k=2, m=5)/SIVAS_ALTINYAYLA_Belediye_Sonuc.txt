@@ -1,0 +1,8 @@
+SIVAS ALTINYAYLA Belediyesi Seçilen Mahalleler
+
+c_AYDIN_MAH. = 0.3178675162003777
+c_KALE_MAH. = 0.6821324837996223
+x_AYDIN_MAH. = 1.0
+x_KALE_MAH. = 1.0
+
+Optimal objective value: 0.0005583551639956053

@@ -1,0 +1,8 @@
+DENÝZLÝ BOZKURT Belediye Meclisi Seçilen Mahalleler
+
+c_ALIKURT_MAH. = 0.2952852761731555
+c_CUMALI_MAH. = 0.7047147238268445
+x_ALIKURT_MAH. = 1.0
+x_CUMALI_MAH. = 1.0
+
+Optimal objective value: 0.0002559019075901725

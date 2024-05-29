@@ -1,0 +1,8 @@
+MALATYA KALE Belediye Meclisi Seçilen Mahalleler
+
+c_ERDEMLI_MAH. = 0.8362347806593254
+c_UYANIK_MAH. = 0.1637652193406746
+x_ERDEMLI_MAH. = 1.0
+x_UYANIK_MAH. = 1.0
+
+Optimal objective value: 0.0016154018277225735

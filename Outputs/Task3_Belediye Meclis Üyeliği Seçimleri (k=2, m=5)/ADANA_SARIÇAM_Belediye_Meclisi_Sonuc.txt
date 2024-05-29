@@ -1,0 +1,8 @@
+ADANA SARIÇAM Belediye Meclisi Seçilen Mahalleler
+
+c_KARLIK_MAH. = 0.49129529657243587
+c_MUMINLI_MAH. = 0.5087047034275641
+x_KARLIK_MAH. = 1.0
+x_MUMINLI_MAH. = 1.0
+
+Optimal objective value: 0.0007705165504918732

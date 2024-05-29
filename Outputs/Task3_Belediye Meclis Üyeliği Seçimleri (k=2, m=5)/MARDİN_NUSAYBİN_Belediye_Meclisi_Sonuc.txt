@@ -1,0 +1,8 @@
+MARDÝN NUSAYBÝN Belediye Meclisi Seçilen Mahalleler
+
+c_SOGUTLU_MAH. = 0.3052552972095258
+c_YOLINDI_MAH. = 0.6947447027904742
+x_SOGUTLU_MAH. = 1.0
+x_YOLINDI_MAH. = 1.0
+
+Optimal objective value: 0.00038765715434396775

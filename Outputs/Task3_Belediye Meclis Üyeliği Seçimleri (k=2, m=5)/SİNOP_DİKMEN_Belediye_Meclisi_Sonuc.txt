@@ -1,0 +1,8 @@
+SÝNOP DÝKMEN Belediye Meclisi Seçilen Mahalleler
+
+c_KIRCAL_MAH. = 0.839013292691481
+c_CORAK_MAH. = 0.16098670730851905
+x_KIRCAL_MAH. = 1.0
+x_CORAK_MAH. = 1.0
+
+Optimal objective value: 0.0006205956311955418

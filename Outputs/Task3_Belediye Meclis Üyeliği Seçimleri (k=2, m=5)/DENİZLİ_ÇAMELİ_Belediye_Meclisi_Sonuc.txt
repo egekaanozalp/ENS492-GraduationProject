@@ -1,0 +1,8 @@
+DENÝZLÝ ÇAMELÝ Belediye Meclisi Seçilen Mahalleler
+
+c_KOLAK_MAH. = 0.6126588294303404
+c_YENI_MAH. = 0.38734117056965955
+x_KOLAK_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.0005145004949880239

@@ -1,0 +1,8 @@
+SÝNOP GERZE Belediye Meclisi Seçilen Mahalleler
+
+c_ATATURK_MAH. = 0.3909414227969399
+c_HAMIDIYE_MAH. = 0.6090585772030601
+x_ATATURK_MAH. = 1.0
+x_HAMIDIYE_MAH. = 1.0
+
+Optimal objective value: 0.0001477712608196624

@@ -1,0 +1,8 @@
+ADANA YÜREÐÝR Belediye Meclisi Seçilen Mahalleler
+
+c_DEDE_KORKUT_MAH. = 0.43807671199174003
+c_YERDELEN_MAH. = 0.56192328800826
+x_DEDE_KORKUT_MAH. = 1.0
+x_YERDELEN_MAH. = 1.0
+
+Optimal objective value: 0.0012799293516876364

@@ -1,0 +1,8 @@
+ISPARTA KEÇÝBORLU Belediyesi Seçilen Mahalleler
+
+c_ASAGI_MAH. = 0.35938240761021256
+c_TUZLA_MAH. = 0.6406175923897874
+x_ASAGI_MAH. = 1.0
+x_TUZLA_MAH. = 1.0
+
+Optimal objective value: 0.00020694477587546167

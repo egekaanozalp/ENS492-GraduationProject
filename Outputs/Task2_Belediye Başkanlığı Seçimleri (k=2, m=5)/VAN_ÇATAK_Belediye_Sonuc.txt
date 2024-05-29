@@ -1,0 +1,8 @@
+VAN ÇATAK Belediyesi Seçilen Mahalleler
+
+c_ELIACIK_MAH. = 0.4305357028531669
+c_SUGELDI_MAH. = 0.5694642971468331
+x_ELIACIK_MAH. = 1.0
+x_SUGELDI_MAH. = 1.0
+
+Optimal objective value: 0.00046156410957309824

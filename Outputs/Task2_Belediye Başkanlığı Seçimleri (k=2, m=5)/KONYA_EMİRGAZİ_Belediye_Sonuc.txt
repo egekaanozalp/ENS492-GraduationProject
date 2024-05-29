@@ -1,0 +1,8 @@
+KONYA EMÝRGAZÝ Belediyesi Seçilen Mahalleler
+
+c_GOLOREN_MAH. = 0.4863241505016549
+c_MESELI_MAH. = 0.5136758494983451
+x_GOLOREN_MAH. = 1.0
+x_MESELI_MAH. = 1.0
+
+Optimal objective value: 0.02772465312014516

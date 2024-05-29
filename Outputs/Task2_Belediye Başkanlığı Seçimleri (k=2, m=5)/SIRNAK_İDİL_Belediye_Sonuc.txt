@@ -1,0 +1,8 @@
+SIRNAK ÝDÝL Belediyesi Seçilen Mahalleler
+
+c_YENI_MAH. = 0.687551116506224
+c_YUKARI_MAH. = 0.3124488834937759
+x_YENI_MAH. = 1.0
+x_YUKARI_MAH. = 1.0
+
+Optimal objective value: 0.0011467791835964025

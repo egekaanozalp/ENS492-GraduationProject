@@ -1,0 +1,8 @@
+DENÝZLÝ TAVAS Belediye Meclisi Seçilen Mahalleler
+
+c_AKINCILAR_MAH. = 0.13371508309209668
+c_HIRKA_MAH. = 0.8662849169079033
+x_AKINCILAR_MAH. = 1.0
+x_HIRKA_MAH. = 1.0
+
+Optimal objective value: 0.0008486758964421082

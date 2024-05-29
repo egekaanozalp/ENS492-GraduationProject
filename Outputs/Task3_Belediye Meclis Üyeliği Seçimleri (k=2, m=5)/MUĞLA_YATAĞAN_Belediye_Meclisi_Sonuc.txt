@@ -1,0 +1,8 @@
+MUÐLA YATAÐAN Belediye Meclisi Seçilen Mahalleler
+
+c_AKGEDIK_MAH. = 0.46904420924451373
+c_YAYLA_MAH. = 0.5309557907554863
+x_AKGEDIK_MAH. = 1.0
+x_YAYLA_MAH. = 1.0
+
+Optimal objective value: 0.0006811926850823768

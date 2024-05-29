@@ -1,0 +1,8 @@
+EDÝRNE ENEZ Belediye Meclisi Seçilen Mahalleler
+
+c_GAZIOMERBEY_MAH. = 0.7561662171746207
+c_YENI_MAH. = 0.2438337828253793
+x_GAZIOMERBEY_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.0011120510343136658

@@ -1,0 +1,8 @@
+HAKKARÝ HAKKARÝ MERKEZ Belediye Meclisi Seçilen Mahalleler
+
+c_BAGLAR_MAH. = 0.6020025701827736
+c_BULAK_MAH. = 0.39799742981722647
+x_BAGLAR_MAH. = 1.0
+x_BULAK_MAH. = 1.0
+
+Optimal objective value: 0.0007286816638993887

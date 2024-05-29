@@ -1,0 +1,8 @@
+ORDU ÇAYBAÞI Belediyesi Seçilen Mahalleler
+
+c_KAPILI_MAH. = 0.5638681761678683
+c_CINAR_MAH. = 0.4361318238321316
+x_KAPILI_MAH. = 1.0
+x_CINAR_MAH. = 1.0
+
+Optimal objective value: 0.0005907357484142839

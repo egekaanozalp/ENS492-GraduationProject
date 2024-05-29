@@ -1,0 +1,8 @@
+SAKARYA SÖÐÜTLÜ Belediye Meclisi Seçilen Mahalleler
+
+c_ORTA_MAH. = 0.3103873823374258
+c_YENIKOY_MAH. = 0.6896126176625742
+x_ORTA_MAH. = 1.0
+x_YENIKOY_MAH. = 1.0
+
+Optimal objective value: 0.000783999005006808

@@ -1,0 +1,8 @@
+AKSARAY AÐAÇÖREN Belediyesi Seçilen Mahalleler
+
+c_KALE_MAH. = 0.7432698221376863
+c_YENI_MAH. = 0.25673017786231367
+x_KALE_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.0012376488025960253

@@ -1,0 +1,7 @@
+KONYA KARATAY Belediyesi Seçilen Mahalleler
+
+c_HACIVEYISZADE_MAH. = 1.0
+x_ACIDORT_MAH. = 1.0
+x_HACIVEYISZADE_MAH. = 1.0
+
+Optimal objective value: 0.0011910487845916418

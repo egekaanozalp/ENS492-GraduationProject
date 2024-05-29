@@ -1,0 +1,7 @@
+ISTANBUL ÇATALCA Belediyesi Seçilen Mahalleler
+
+c_FERHATPASA_MAH. = 1.0
+x_DAGYENICE_MAH. = 1.0
+x_FERHATPASA_MAH. = 1.0
+
+Optimal objective value: 0.0009167932109563903

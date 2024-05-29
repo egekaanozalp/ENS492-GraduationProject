@@ -1,0 +1,8 @@
+BÝLECÝK PAZARYERÝ Belediye Meclisi Seçilen Mahalleler
+
+c_YENI_MAH. = 0.5511937137891871
+c_YUZBASI_MAH. = 0.4488062862108128
+x_YENI_MAH. = 1.0
+x_YUZBASI_MAH. = 1.0
+
+Optimal objective value: 0.000905723059458241

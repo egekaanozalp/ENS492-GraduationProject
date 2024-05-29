@@ -1,0 +1,8 @@
+AFYONKARAHÝSAR ÞUHUT Belediye Meclisi Seçilen Mahalleler
+
+c_ALTIGOZ_MAH. = 0.4764024178370059
+c_YALI_MAH. = 0.5235975821629941
+x_ALTIGOZ_MAH. = 1.0
+x_YALI_MAH. = 1.0
+
+Optimal objective value: 0.00043277086183279856

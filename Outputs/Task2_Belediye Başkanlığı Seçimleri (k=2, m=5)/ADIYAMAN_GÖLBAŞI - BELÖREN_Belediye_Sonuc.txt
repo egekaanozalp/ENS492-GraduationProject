@@ -1,0 +1,7 @@
+ADIYAMAN GÖLBAÞI - BELÖREN Belediyesi Seçilen Mahalleler
+
+c_BELOREN-MERKEZ_MAH. = 1.0
+x_BELOREN-CUMHURIYET_MAH. = 1.0
+x_BELOREN-MERKEZ_MAH. = 1.0
+
+Optimal objective value: 0.0010194954986826321

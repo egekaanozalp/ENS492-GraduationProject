@@ -1,0 +1,7 @@
+ZONGULDAK ALAPLI Belediyesi Seçilen Mahalleler
+
+c_MERKEZ_MAH. = 1.0
+x_KARSIYAKA_MAH. = 1.0
+x_MERKEZ_MAH. = 1.0
+
+Optimal objective value: 0.00014385314257503445

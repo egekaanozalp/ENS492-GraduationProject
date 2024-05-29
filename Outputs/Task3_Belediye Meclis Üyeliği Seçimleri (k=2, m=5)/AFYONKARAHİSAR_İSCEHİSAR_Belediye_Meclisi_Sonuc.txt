@@ -1,0 +1,8 @@
+AFYONKARAHÝSAR ÝSCEHÝSAR Belediye Meclisi Seçilen Mahalleler
+
+c_KAVAK_MAH. = 0.6435326643959557
+c_CUKUR_MAH. = 0.3564673356040443
+x_KAVAK_MAH. = 1.0
+x_CUKUR_MAH. = 1.0
+
+Optimal objective value: 0.028941378917398453

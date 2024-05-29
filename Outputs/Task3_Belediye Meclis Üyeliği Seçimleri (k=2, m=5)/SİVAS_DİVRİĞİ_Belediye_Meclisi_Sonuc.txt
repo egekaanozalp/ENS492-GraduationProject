@@ -1,0 +1,8 @@
+SÝVAS DÝVRÝÐÝ Belediye Meclisi Seçilen Mahalleler
+
+c_ARHUSU_MAH. = 0.44337782657861846
+c_DILLIOGLU_MAH. = 0.5566221734213815
+x_ARHUSU_MAH. = 1.0
+x_DILLIOGLU_MAH. = 1.0
+
+Optimal objective value: 0.0006236727062431946

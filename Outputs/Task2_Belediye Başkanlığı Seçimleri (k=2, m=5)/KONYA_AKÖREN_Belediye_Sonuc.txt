@@ -1,0 +1,8 @@
+KONYA AKÖREN Belediyesi Seçilen Mahalleler
+
+c_ALANKOY_MAH. = 0.2778642894026131
+c_YENI_MAH. = 0.7221357105973869
+x_ALANKOY_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.0017238864961213185

@@ -1,0 +1,8 @@
+VAN ERCÝÞ Belediyesi Seçilen Mahalleler
+
+c_GOKOGLAN_MAH. = 0.543143958049104
+c_UNCULAR_MAH. = 0.456856041950896
+x_GOKOGLAN_MAH. = 1.0
+x_UNCULAR_MAH. = 1.0
+
+Optimal objective value: 9.907228612271446e-05

@@ -1,0 +1,8 @@
+AKSARAY GÜLAÐAÇ Belediyesi Seçilen Mahalleler
+
+c_FATIH_MAH. = 0.26149117149683376
+c_MEYDAN_MAH. = 0.7385088285031662
+x_FATIH_MAH. = 1.0
+x_MEYDAN_MAH. = 1.0
+
+Optimal objective value: 0.0014015726161893394

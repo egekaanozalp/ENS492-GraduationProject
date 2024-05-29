@@ -1,0 +1,8 @@
+VAN GEVAÞ Belediye Meclisi Seçilen Mahalleler
+
+c_ABALI_MAH. = 0.5175399223922424
+c_AYDINOCAK_MAH. = 0.48246007760775755
+x_ABALI_MAH. = 1.0
+x_AYDINOCAK_MAH. = 1.0
+
+Optimal objective value: 0.0007386595044077682

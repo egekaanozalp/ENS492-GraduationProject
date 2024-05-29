@@ -1,0 +1,8 @@
+MUS HASKÖY Belediyesi Seçilen Mahalleler
+
+c_SAYANLAR_MAH. = 0.31233119337452514
+c_SUNAY_MAH. = 0.6876688066254748
+x_SAYANLAR_MAH. = 1.0
+x_SUNAY_MAH. = 1.0
+
+Optimal objective value: 0.15551816273857577

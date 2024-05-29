@@ -1,0 +1,8 @@
+HAKKARI ÞEMDÝNLÝ Belediyesi Seçilen Mahalleler
+
+c_BESEVLER_MAH. = 0.6368740893787423
+c_MODA_MAH. = 0.3631259106212577
+x_BESEVLER_MAH. = 1.0
+x_MODA_MAH. = 1.0
+
+Optimal objective value: 9.244802102037486e-05

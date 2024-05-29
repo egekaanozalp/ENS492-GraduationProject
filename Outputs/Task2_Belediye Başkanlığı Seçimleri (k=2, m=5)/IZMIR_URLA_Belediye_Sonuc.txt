@@ -1,0 +1,8 @@
+IZMIR URLA Belediyesi Seçilen Mahalleler
+
+c_OVACIK_MAH. = 0.3716395059062705
+c_RUSTEM_MAH. = 0.6283604940937295
+x_OVACIK_MAH. = 1.0
+x_RUSTEM_MAH. = 1.0
+
+Optimal objective value: 0.0008986548121775462

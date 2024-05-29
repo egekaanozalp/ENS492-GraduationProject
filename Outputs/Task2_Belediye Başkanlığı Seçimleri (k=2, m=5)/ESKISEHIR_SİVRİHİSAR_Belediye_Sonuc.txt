@@ -1,0 +1,8 @@
+ESKISEHIR SÝVRÝHÝSAR Belediyesi Seçilen Mahalleler
+
+c_MEMIK_MAH. = 0.42255238477002766
+c_CAYKOZ_MAH. = 0.5774476152299723
+x_MEMIK_MAH. = 1.0
+x_CAYKOZ_MAH. = 1.0
+
+Optimal objective value: 0.011929883910138828

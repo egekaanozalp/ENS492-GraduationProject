@@ -1,0 +1,7 @@
+ADIYAMAN KAHTA Belediyesi Seçilen Mahalleler
+
+c_YENI_MAH. = 1.0
+x_ATATURK_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.0010771698602867197

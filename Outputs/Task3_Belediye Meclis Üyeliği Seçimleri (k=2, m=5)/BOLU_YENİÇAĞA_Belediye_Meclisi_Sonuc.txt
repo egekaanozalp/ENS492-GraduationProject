@@ -1,0 +1,8 @@
+BOLU YENÝÇAÐA Belediye Meclisi Seçilen Mahalleler
+
+c_ASIL_BEY_MAH. = 0.4820127079269332
+c_CAMIATIK_MAH. = 0.5179872920730668
+x_ASIL_BEY_MAH. = 1.0
+x_CAMIATIK_MAH. = 1.0
+
+Optimal objective value: 6.703769181659602e-05

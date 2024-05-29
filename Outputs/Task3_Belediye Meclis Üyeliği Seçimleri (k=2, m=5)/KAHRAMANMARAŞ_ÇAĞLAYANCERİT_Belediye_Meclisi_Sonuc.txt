@@ -1,0 +1,8 @@
+KAHRAMANMARAÞ ÇAÐLAYANCERÝT Belediye Meclisi Seçilen Mahalleler
+
+c_BOZLAR_MAH. = 0.3633978298682513
+c_FATIH_MAH. = 0.6366021701317487
+x_BOZLAR_MAH. = 1.0
+x_FATIH_MAH. = 1.0
+
+Optimal objective value: 0.1171451246315649

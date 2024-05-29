@@ -1,0 +1,7 @@
+BALIKESIR SUSURLUK Belediyesi Seçilen Mahalleler
+
+c_KISLA_MAH. = 1.0
+x_ALIBEY_MAH. = 1.0
+x_KISLA_MAH. = 1.0
+
+Optimal objective value: 0.0009470214752341777

@@ -1,0 +1,7 @@
+BINGOL BÝNGÖL MERKEZ Belediyesi Seçilen Mahalleler
+
+c_RECEP_TAYYIP_ERDOGAN_MAH. = 1.0
+x_RECEP_TAYYIP_ERDOGAN_MAH. = 1.0
+x_INALI_MAH. = 1.0
+
+Optimal objective value: 0.0011340377539450497

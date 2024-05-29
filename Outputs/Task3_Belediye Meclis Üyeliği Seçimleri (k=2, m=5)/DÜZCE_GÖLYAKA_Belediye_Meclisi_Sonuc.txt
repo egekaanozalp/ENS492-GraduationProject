@@ -1,0 +1,8 @@
+DÜZCE GÖLYAKA Belediye Meclisi Seçilen Mahalleler
+
+c_KULTUR_MAH. = 0.5778343985261811
+c_YAZIPINAR_MAH. = 0.42216560147381893
+x_KULTUR_MAH. = 1.0
+x_YAZIPINAR_MAH. = 1.0
+
+Optimal objective value: 0.0002006923420333484

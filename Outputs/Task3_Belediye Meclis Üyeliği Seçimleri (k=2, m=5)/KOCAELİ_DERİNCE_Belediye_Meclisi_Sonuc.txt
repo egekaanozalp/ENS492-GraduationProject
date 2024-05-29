@@ -1,0 +1,8 @@
+KOCAELÝ DERÝNCE Belediye Meclisi Seçilen Mahalleler
+
+c_DENIZ_MAH. = 0.8389183079562156
+c_TAHTALI_MAH. = 0.16108169204378442
+x_DENIZ_MAH. = 1.0
+x_TAHTALI_MAH. = 1.0
+
+Optimal objective value: 0.0006683456655862674

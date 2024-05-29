@@ -1,0 +1,7 @@
+ZONGULDAK DEVREK Belediyesi Seçilen Mahalleler
+
+c_ISMET_PASA_MAH. = 1.0
+x_YENI_MAH. = 1.0
+x_ISMET_PASA_MAH. = 1.0
+
+Optimal objective value: 0.0004251509903606676

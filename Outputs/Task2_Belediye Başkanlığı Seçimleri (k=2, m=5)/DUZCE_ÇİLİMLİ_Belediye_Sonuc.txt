@@ -1,0 +1,8 @@
+DUZCE ÇÝLÝMLÝ Belediyesi Seçilen Mahalleler
+
+c_ARABACI_MAH. = 0.12965945791079325
+c_ULUCAMI_MAH. = 0.8703405420892067
+x_ARABACI_MAH. = 1.0
+x_ULUCAMI_MAH. = 1.0
+
+Optimal objective value: 0.0004904863247945368

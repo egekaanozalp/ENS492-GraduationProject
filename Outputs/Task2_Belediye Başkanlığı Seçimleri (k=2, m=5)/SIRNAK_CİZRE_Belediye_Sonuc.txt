@@ -1,0 +1,7 @@
+SIRNAK CÝZRE Belediyesi Seçilen Mahalleler
+
+c_YAFES_MAH. = 1.0
+x_YAFES_MAH. = 1.0
+x_SAH_MAH. = 1.0
+
+Optimal objective value: 0.0008881822246777915

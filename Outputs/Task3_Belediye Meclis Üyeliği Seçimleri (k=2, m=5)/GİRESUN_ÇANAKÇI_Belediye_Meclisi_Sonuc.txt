@@ -1,0 +1,8 @@
+GÝRESUN ÇANAKÇI Belediye Meclisi Seçilen Mahalleler
+
+c_BEYLI_MAH. = 0.3494357654500433
+c_ORTA_MAH. = 0.6505642345499567
+x_BEYLI_MAH. = 1.0
+x_ORTA_MAH. = 1.0
+
+Optimal objective value: 0.001078276600399275

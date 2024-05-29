@@ -1,0 +1,8 @@
+KÜTAHYA TAVÞANLI Belediye Meclisi Seçilen Mahalleler
+
+c_KAVAKLI_MAH. = 0.8555712824942406
+c_MOYMUL_MAH. = 0.14442871750575936
+x_KAVAKLI_MAH. = 1.0
+x_MOYMUL_MAH. = 1.0
+
+Optimal objective value: 0.0008673307247405448

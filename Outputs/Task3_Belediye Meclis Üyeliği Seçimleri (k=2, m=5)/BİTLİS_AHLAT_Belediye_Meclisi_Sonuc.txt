@@ -1,0 +1,8 @@
+BÝTLÝS AHLAT Belediye Meclisi Seçilen Mahalleler
+
+c_ERKIZAN_MAH. = 0.38583183846566205
+c_KALE__MAH. = 0.614168161534338
+x_ERKIZAN_MAH. = 1.0
+x_KALE__MAH. = 1.0
+
+Optimal objective value: 0.0005815237365853765

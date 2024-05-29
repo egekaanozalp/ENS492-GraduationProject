@@ -1,0 +1,8 @@
+GIRESUN YAÐLIDERE Belediyesi Seçilen Mahalleler
+
+c_AKDOGAN__MAH. = 0.374862541551208
+c_GUNECE__MAH. = 0.625137458448792
+x_AKDOGAN__MAH. = 1.0
+x_GUNECE__MAH. = 1.0
+
+Optimal objective value: 0.0008268822748487281

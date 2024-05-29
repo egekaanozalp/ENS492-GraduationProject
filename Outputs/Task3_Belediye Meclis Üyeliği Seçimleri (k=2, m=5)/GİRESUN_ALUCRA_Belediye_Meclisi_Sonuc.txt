@@ -1,0 +1,8 @@
+GÝRESUN ALUCRA Belediye Meclisi Seçilen Mahalleler
+
+c_TOPCAM_MAH. = 0.0658789489100485
+c_YUNUS_EMRE_MAH. = 0.9341210510899515
+x_TOPCAM_MAH. = 1.0
+x_YUNUS_EMRE_MAH. = 1.0
+
+Optimal objective value: 0.0010634415590503599

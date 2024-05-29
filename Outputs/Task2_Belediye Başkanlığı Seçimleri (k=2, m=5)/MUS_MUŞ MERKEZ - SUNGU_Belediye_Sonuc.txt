@@ -1,0 +1,7 @@
+MUS MUÞ MERKEZ - SUNGU Belediyesi Seçilen Mahalleler
+
+c_SUNGU-BAHCELIEVLER_MAH. = 1.0
+x_SUNGU-BAHCELIEVLER_MAH. = 1.0
+x_SUNGU-HURRIYET_MAH. = 1.0
+
+Optimal objective value: 0.1603155616030827

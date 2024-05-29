@@ -1,0 +1,8 @@
+ESKÝÞEHÝR ALPU Belediye Meclisi Seçilen Mahalleler
+
+c_DEREKOY_MAH. = 0.6844378513697759
+c_KOSMAT_MAH. = 0.31556214863022414
+x_DEREKOY_MAH. = 1.0
+x_KOSMAT_MAH. = 1.0
+
+Optimal objective value: 0.0009500306317538065

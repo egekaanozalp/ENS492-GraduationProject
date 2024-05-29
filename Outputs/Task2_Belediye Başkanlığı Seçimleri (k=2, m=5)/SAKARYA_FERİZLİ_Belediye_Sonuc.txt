@@ -1,0 +1,8 @@
+SAKARYA FERÝZLÝ Belediyesi Seçilen Mahalleler
+
+c_SINANOGLU_MAH. = 0.6452398367195429
+c_INONU_MAH. = 0.3547601632804571
+x_SINANOGLU_MAH. = 1.0
+x_INONU_MAH. = 1.0
+
+Optimal objective value: 5.1169475775991735e-05

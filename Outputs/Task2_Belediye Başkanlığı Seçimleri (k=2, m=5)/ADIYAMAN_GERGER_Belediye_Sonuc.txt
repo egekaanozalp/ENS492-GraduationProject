@@ -1,0 +1,8 @@
+ADIYAMAN GERGER Belediyesi Seçilen Mahalleler
+
+c_MERKEZ_MAH. = 0.7014955992176817
+c_YENI_MAH. = 0.2985044007823184
+x_MERKEZ_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.0004299566324974524

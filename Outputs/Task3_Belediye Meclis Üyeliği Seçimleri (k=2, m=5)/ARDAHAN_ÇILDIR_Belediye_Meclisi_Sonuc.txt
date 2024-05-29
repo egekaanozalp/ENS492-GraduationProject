@@ -1,0 +1,8 @@
+ARDAHAN ÇILDIR Belediye Meclisi Seçilen Mahalleler
+
+c_SUHARA_MAH. = 0.42650098581114837
+c_UFUKTEPE_MAH. = 0.5734990141888516
+x_SUHARA_MAH. = 1.0
+x_UFUKTEPE_MAH. = 1.0
+
+Optimal objective value: 0.002173724449498371

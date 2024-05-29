@@ -1,0 +1,8 @@
+ÝSTANBUL TUZLA Belediye Meclisi Seçilen Mahalleler
+
+c_CAMI_MAH. = 0.3845597617882447
+c_SIFA_MAH. = 0.6154402382117553
+x_CAMI_MAH. = 1.0
+x_SIFA_MAH. = 1.0
+
+Optimal objective value: 0.0013976607041003009

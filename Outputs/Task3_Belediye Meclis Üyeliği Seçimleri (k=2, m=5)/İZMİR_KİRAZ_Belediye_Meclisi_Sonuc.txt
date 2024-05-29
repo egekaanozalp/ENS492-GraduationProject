@@ -1,0 +1,8 @@
+ÝZMÝR KÝRAZ Belediye Meclisi Seçilen Mahalleler
+
+c_KARABURC_MAH. = 0.7320316222529089
+c_YENIKOY_MAH. = 0.2679683777470912
+x_KARABURC_MAH. = 1.0
+x_YENIKOY_MAH. = 1.0
+
+Optimal objective value: 0.0008450515338285225

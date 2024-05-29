@@ -1,0 +1,8 @@
+DUZCE GÜMÜÞOVA Belediyesi Seçilen Mahalleler
+
+c_FATIH_MAH. = 0.23113700291758987
+c_KULTUR_MAH. = 0.7688629970824101
+x_FATIH_MAH. = 1.0
+x_KULTUR_MAH. = 1.0
+
+Optimal objective value: 0.0011298952955295372

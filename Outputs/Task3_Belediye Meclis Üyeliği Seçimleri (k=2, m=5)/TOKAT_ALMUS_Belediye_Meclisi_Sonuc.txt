@@ -1,0 +1,8 @@
+TOKAT ALMUS Belediye Meclisi Seçilen Mahalleler
+
+c_EREK_MAH. = 0.49837951259351543
+c_ESENTEPE_MAH. = 0.5016204874064846
+x_EREK_MAH. = 1.0
+x_ESENTEPE_MAH. = 1.0
+
+Optimal objective value: 0.0006256180841670567

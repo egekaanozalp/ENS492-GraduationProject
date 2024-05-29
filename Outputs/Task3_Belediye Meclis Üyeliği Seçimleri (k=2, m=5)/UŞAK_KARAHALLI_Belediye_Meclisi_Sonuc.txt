@@ -1,0 +1,8 @@
+UÞAK KARAHALLI Belediye Meclisi Seçilen Mahalleler
+
+c_BOGAZ_MAH. = 0.3670413325437155
+c_DERE_MAH. = 0.6329586674562845
+x_BOGAZ_MAH. = 1.0
+x_DERE_MAH. = 1.0
+
+Optimal objective value: 0.0010819498073606493

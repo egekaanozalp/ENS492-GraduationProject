@@ -1,0 +1,8 @@
+IZMIR ALÝAÐA Belediyesi Seçilen Mahalleler
+
+c_SAMURLU_MAH. = 0.4347798308495995
+c_YENI_MAH. = 0.5652201691504005
+x_SAMURLU_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.0010850004566075322

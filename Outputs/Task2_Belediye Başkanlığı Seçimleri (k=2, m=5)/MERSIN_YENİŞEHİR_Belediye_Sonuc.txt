@@ -1,0 +1,8 @@
+MERSIN YENÝÞEHÝR Belediyesi Seçilen Mahalleler
+
+c_BATIKENT_MAH. = 0.2669977027007209
+c_GAZI_MAH. = 0.7330022972992791
+x_BATIKENT_MAH. = 1.0
+x_GAZI_MAH. = 1.0
+
+Optimal objective value: 0.0002766852586418844

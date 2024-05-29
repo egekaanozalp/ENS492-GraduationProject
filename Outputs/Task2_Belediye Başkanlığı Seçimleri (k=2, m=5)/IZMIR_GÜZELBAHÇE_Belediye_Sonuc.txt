@@ -1,0 +1,8 @@
+IZMIR GÜZELBAHÇE Belediyesi Seçilen Mahalleler
+
+c_ATATURK_MAH. = 0.06788828234957356
+c_YALI_MAH. = 0.9321117176504264
+x_ATATURK_MAH. = 1.0
+x_YALI_MAH. = 1.0
+
+Optimal objective value: 0.0008208329309185025

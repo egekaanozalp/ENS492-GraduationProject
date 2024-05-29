@@ -1,0 +1,8 @@
+OSMANÝYE DÜZÝÇÝ Belediye Meclisi Seçilen Mahalleler
+
+c_BOGAZICI_MAH. = 0.766823093082278
+c_YESILOVA_MAH. = 0.23317690691772194
+x_BOGAZICI_MAH. = 1.0
+x_YESILOVA_MAH. = 1.0
+
+Optimal objective value: 0.0004354959079161391

@@ -1,0 +1,7 @@
+BOLU MENGEN - GÖKÇESU Belediyesi Seçilen Mahalleler
+
+c_GOKCESU-ADASAL_MAH. = 1.0
+x_GOKCESU-ADASAL_MAH. = 1.0
+x_GOKCESU-ATATURK_MAH. = 1.0
+
+Optimal objective value: 0.04403864171150651

@@ -1,0 +1,8 @@
+KONYA BEYÞEHÝR Belediye Meclisi Seçilen Mahalleler
+
+c_KUSLUCA_MAH. = 0.7505536756718606
+c_YAZYURDU_MAH. = 0.2494463243281394
+x_KUSLUCA_MAH. = 1.0
+x_YAZYURDU_MAH. = 1.0
+
+Optimal objective value: 0.0023655930177315376

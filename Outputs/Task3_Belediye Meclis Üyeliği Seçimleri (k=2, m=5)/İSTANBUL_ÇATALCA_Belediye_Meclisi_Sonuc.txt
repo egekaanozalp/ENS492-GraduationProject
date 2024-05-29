@@ -1,0 +1,8 @@
+ÝSTANBUL ÇATALCA Belediye Meclisi Seçilen Mahalleler
+
+c_AKALAN_MAH. = 0.4258661919050116
+c_ORMANLI_MAH. = 0.5741338080949884
+x_AKALAN_MAH. = 1.0
+x_ORMANLI_MAH. = 1.0
+
+Optimal objective value: 0.000492211376310725

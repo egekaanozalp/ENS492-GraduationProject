@@ -1,0 +1,8 @@
+ORDU MESUDÝYE Belediye Meclisi Seçilen Mahalleler
+
+c_ALAN_MAH. = 0.5559370212751304
+c_GULPINAR_MAH. = 0.4440629787248695
+x_ALAN_MAH. = 1.0
+x_GULPINAR_MAH. = 1.0
+
+Optimal objective value: 0.0010062746078274287

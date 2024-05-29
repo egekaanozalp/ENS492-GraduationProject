@@ -1,0 +1,7 @@
+MUGLA MARMARÝS Belediyesi Seçilen Mahalleler
+
+c_CAMLI_MAH. = 1.0
+x_ADAKOY_MAH. = 1.0
+x_CAMLI_MAH. = 1.0
+
+Optimal objective value: 0.006621993600790299

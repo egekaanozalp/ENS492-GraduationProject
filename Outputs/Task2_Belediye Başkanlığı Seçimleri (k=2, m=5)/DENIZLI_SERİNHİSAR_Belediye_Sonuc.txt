@@ -1,0 +1,8 @@
+DENIZLI SERÝNHÝSAR Belediyesi Seçilen Mahalleler
+
+c_AYAZ_MAH. = 0.26514530904023226
+c_YENICE_MAH. = 0.7348546909597677
+x_AYAZ_MAH. = 1.0
+x_YENICE_MAH. = 1.0
+
+Optimal objective value: 0.0009582309574883707

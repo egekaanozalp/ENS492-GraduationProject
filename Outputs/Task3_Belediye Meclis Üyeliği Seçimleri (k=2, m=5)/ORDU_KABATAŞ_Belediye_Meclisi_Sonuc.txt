@@ -1,0 +1,8 @@
+ORDU KABATAÞ Belediye Meclisi Seçilen Mahalleler
+
+c_HOSKADEM_MAH. = 0.6251406184089126
+c_KUZKOY_MAH. = 0.3748593815910875
+x_HOSKADEM_MAH. = 1.0
+x_KUZKOY_MAH. = 1.0
+
+Optimal objective value: 0.022520072934162805

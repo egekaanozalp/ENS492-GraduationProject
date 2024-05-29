@@ -1,0 +1,8 @@
+ANKARA SÝNCAN Belediye Meclisi Seçilen Mahalleler
+
+c_GAZI_MAH. = 0.2589142741866969
+c_MALAZGIRT_MAH. = 0.7410857258133031
+x_GAZI_MAH. = 1.0
+x_MALAZGIRT_MAH. = 1.0
+
+Optimal objective value: 0.0006460781020034556

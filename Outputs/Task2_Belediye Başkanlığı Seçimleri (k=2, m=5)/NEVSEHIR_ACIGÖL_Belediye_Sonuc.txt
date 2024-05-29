@@ -1,0 +1,7 @@
+NEVSEHIR ACIGÖL Belediyesi Seçilen Mahalleler
+
+c_CUMHURIYET_MAH. = 1.0
+x_BAHCELI_MAH. = 1.0
+x_CUMHURIYET_MAH. = 1.0
+
+Optimal objective value: 0.0002298539809058031

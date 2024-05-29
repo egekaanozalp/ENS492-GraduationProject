@@ -1,0 +1,8 @@
+GÝRESUN GÜCE Belediye Meclisi Seçilen Mahalleler
+
+c_GUCE_MAH. = 0.3967851149466448
+c_KEMALIYE_MAH. = 0.6032148850533552
+x_GUCE_MAH. = 1.0
+x_KEMALIYE_MAH. = 1.0
+
+Optimal objective value: 0.0009185368358053392

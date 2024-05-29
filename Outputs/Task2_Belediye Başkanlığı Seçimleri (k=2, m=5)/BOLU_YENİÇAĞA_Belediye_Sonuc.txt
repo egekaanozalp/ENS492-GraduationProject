@@ -1,0 +1,7 @@
+BOLU YENÝÇAÐA Belediyesi Seçilen Mahalleler
+
+c_GOLYUZU_MAH. = 1.0
+x_CAMIATIK_MAH. = 1.0
+x_GOLYUZU_MAH. = 1.0
+
+Optimal objective value: 0.04468232353065038

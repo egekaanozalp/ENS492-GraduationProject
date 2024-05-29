@@ -1,0 +1,8 @@
+EDÝRNE ÝPSALA Belediye Meclisi Seçilen Mahalleler
+
+c_BOZKURT_MAH. = 0.5788767681050794
+c_KOPRU_MAH. = 0.4211232318949206
+x_BOZKURT_MAH. = 1.0
+x_KOPRU_MAH. = 1.0
+
+Optimal objective value: 0.00020861976461805654

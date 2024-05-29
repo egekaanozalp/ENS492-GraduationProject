@@ -1,0 +1,8 @@
+SÝVAS GEMEREK Belediye Meclisi Seçilen Mahalleler
+
+c_YENIDOGAN_MAH. = 0.6528397372683774
+c_YUKARI_MAH. = 0.3471602627316226
+x_YENIDOGAN_MAH. = 1.0
+x_YUKARI_MAH. = 1.0
+
+Optimal objective value: 0.004039837947832692

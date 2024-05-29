@@ -1,0 +1,8 @@
+ORDU KORGAN Belediye Meclisi Seçilen Mahalleler
+
+c_DURALI_MAH. = 0.6145255130351688
+c_DIP_MAH. = 0.3854744869648312
+x_DURALI_MAH. = 1.0
+x_DIP_MAH. = 1.0
+
+Optimal objective value: 0.0010359745190876568

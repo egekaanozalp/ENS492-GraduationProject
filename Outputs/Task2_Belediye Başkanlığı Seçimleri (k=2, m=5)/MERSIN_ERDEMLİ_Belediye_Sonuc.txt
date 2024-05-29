@@ -1,0 +1,8 @@
+MERSIN ERDEMLÝ Belediyesi Seçilen Mahalleler
+
+c_FATIH_MAH. = 0.30964079617211804
+c_TOMUK_MAH. = 0.690359203827882
+x_FATIH_MAH. = 1.0
+x_TOMUK_MAH. = 1.0
+
+Optimal objective value: 0.00044128085527306293

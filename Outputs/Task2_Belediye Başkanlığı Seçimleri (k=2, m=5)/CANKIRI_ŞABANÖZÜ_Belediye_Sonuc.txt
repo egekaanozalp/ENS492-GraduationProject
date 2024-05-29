@@ -1,0 +1,8 @@
+CANKIRI ÞABANÖZÜ Belediyesi Seçilen Mahalleler
+
+c_GURPINAR_MAH. = 0.11944589844367648
+c_YENI_MAH. = 0.8805541015563235
+x_GURPINAR_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.0019908770179395407

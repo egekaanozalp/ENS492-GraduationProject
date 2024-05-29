@@ -1,0 +1,8 @@
+ORDU ÇAYBAÞI Belediye Meclisi Seçilen Mahalleler
+
+c_AKBABA_MAH. = 0.7718969133145446
+c_TEKKE_MAH. = 0.22810308668545543
+x_AKBABA_MAH. = 1.0
+x_TEKKE_MAH. = 1.0
+
+Optimal objective value: 0.0005593401423612532

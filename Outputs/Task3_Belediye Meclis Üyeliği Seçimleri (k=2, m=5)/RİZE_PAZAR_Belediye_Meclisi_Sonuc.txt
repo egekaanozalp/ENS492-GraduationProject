@@ -1,0 +1,8 @@
+RÝZE PAZAR Belediye Meclisi Seçilen Mahalleler
+
+c_GUZELYALI_MAH. = 0.37725661323230786
+c_PAZAR_MAH. = 0.6227433867676921
+x_GUZELYALI_MAH. = 1.0
+x_PAZAR_MAH. = 1.0
+
+Optimal objective value: 0.0008744122127307685

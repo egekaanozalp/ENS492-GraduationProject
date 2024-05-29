@@ -1,0 +1,8 @@
+TRABZON MAÇKA Belediye Meclisi Seçilen Mahalleler
+
+c_AKARSU_MAH. = 0.516863315621255
+c_CATAK_MAH. = 0.483136684378745
+x_AKARSU_MAH. = 1.0
+x_CATAK_MAH. = 1.0
+
+Optimal objective value: 0.0008103663452889709

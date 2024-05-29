@@ -1,0 +1,8 @@
+DUZCE CUMAYERÝ Belediyesi Seçilen Mahalleler
+
+c_YENI_MAH. = 0.2051907379588687
+c_CEVRIK_MAH. = 0.7948092620411313
+x_YENI_MAH. = 1.0
+x_CEVRIK_MAH. = 1.0
+
+Optimal objective value: 0.00859748274579697

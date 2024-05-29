@@ -1,0 +1,8 @@
+TUNCELI HOZAT Belediyesi Seçilen Mahalleler
+
+c_DIYAP_AGA_MAH. = 0.37523975337599846
+c_YENI_MAH. = 0.6247602466240015
+x_DIYAP_AGA_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.03473799340452288

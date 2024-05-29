@@ -1,0 +1,7 @@
+TOKAT PAZAR Belediyesi Seçilen Mahalleler
+
+c_TEKKE_MAH. = 1.0
+x_SINANPASA_MAH. = 1.0
+x_TEKKE_MAH. = 1.0
+
+Optimal objective value: 0.032416967925763984

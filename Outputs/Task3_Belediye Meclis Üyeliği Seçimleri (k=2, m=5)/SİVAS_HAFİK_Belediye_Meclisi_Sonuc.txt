@@ -1,0 +1,8 @@
+SÝVAS HAFÝK Belediye Meclisi Seçilen Mahalleler
+
+c_TEPE_MAH. = 0.3600319055565089
+c_CAY_MAH. = 0.6399680944434911
+x_TEPE_MAH. = 1.0
+x_CAY_MAH. = 1.0
+
+Optimal objective value: 0.0004317459415389413

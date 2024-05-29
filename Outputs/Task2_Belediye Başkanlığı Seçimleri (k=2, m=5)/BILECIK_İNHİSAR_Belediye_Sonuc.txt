@@ -1,0 +1,8 @@
+BILECIK ÝNHÝSAR Belediyesi Seçilen Mahalleler
+
+c_KARAAGAC_MAH. = 0.2023028075348976
+c_ZAFER_MAH. = 0.7976971924651024
+x_KARAAGAC_MAH. = 1.0
+x_ZAFER_MAH. = 1.0
+
+Optimal objective value: 0.002382814415330725

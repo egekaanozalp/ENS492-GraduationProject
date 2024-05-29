@@ -1,0 +1,8 @@
+AYDIN DÝDÝM Belediye Meclisi Seçilen Mahalleler
+
+c_FEVZIPASA_MAH. = 0.8027305585845528
+c_YALIKOY_MAH. = 0.19726944141544722
+x_FEVZIPASA_MAH. = 1.0
+x_YALIKOY_MAH. = 1.0
+
+Optimal objective value: 0.0030841603160899345

@@ -1,0 +1,8 @@
+ÝSTANBUL SULTANGAZÝ Belediye Meclisi Seçilen Mahalleler
+
+c_50._YIL_MAH. = 0.5386563101093965
+c_75._YIL_MAH. = 0.4613436898906035
+x_50._YIL_MAH. = 1.0
+x_75._YIL_MAH. = 1.0
+
+Optimal objective value: 0.0014345420401814524

@@ -1,0 +1,8 @@
+ADANA SEYHAN Belediyesi Seçilen Mahalleler
+
+c_BEY_MAH. = 0.471899895985298
+c_KOYLUOGLU_MAH. = 0.528100104014702
+x_BEY_MAH. = 1.0
+x_KOYLUOGLU_MAH. = 1.0
+
+Optimal objective value: 0.000903410988432829

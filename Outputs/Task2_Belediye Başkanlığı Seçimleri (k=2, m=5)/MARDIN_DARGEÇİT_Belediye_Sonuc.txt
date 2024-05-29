@@ -1,0 +1,8 @@
+MARDIN DARGEÇÝT Belediyesi Seçilen Mahalleler
+
+c_AKYOL_MAH. = 0.4503545050835833
+c_CATALAN_MAH. = 0.5496454949164167
+x_AKYOL_MAH. = 1.0
+x_CATALAN_MAH. = 1.0
+
+Optimal objective value: 0.000937942545400583

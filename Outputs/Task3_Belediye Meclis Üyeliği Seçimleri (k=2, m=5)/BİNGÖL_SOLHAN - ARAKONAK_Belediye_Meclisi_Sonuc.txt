@@ -1,0 +1,7 @@
+BÝNGÖL SOLHAN - ARAKONAK Belediye Meclisi Seçilen Mahalleler
+
+c_ARAKONAK-KULTUR_MAH. = 1.0
+x_ARAKONAK-KARSIYAKA_MAH. = 1.0
+x_ARAKONAK-KULTUR_MAH. = 1.0
+
+Optimal objective value: 0.1988937412267986

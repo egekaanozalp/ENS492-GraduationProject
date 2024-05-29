@@ -1,0 +1,8 @@
+DÝYARBAKIR BAÐLAR Belediye Meclisi Seçilen Mahalleler
+
+c_5_NISAN_MAH. = 0.9195847193525294
+c_CIFTLIK_MAH. = 0.08041528064747062
+x_5_NISAN_MAH. = 1.0
+x_CIFTLIK_MAH. = 1.0
+
+Optimal objective value: 0.0002846702642407273

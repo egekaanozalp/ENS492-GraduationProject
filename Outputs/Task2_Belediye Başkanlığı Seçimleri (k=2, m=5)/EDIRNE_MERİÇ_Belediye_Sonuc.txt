@@ -1,0 +1,8 @@
+EDIRNE MERÝÇ Belediyesi Seçilen Mahalleler
+
+c_B.DOGANCA_MAH. = 0.874110683946501
+c_K._DOGANCA_MAH. = 0.12588931605347817
+x_B.DOGANCA_MAH. = 1.0
+x_K._DOGANCA_MAH. = 1.0
+
+Optimal objective value: 1.261524264717373e-05

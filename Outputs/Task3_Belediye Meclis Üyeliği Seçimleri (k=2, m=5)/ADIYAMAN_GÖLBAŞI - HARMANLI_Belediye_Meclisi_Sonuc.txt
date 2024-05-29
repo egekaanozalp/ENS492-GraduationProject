@@ -1,0 +1,7 @@
+ADIYAMAN GÖLBAÞI - HARMANLI Belediye Meclisi Seçilen Mahalleler
+
+c_HARMANLI-YENI_MAH. = 1.0
+x_HARMANLI-YENI_MAH. = 1.0
+x_HARMANLI-CAKMAK_MAH. = 1.0
+
+Optimal objective value: 0.0005335699107487102

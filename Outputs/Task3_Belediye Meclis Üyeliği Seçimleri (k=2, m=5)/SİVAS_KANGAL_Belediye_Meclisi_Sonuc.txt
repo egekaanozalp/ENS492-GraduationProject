@@ -1,0 +1,8 @@
+SÝVAS KANGAL Belediye Meclisi Seçilen Mahalleler
+
+c_GURSEL_MAH. = 0.5033065607558342
+c_KARSIYAKA_MAH. = 0.4966934392441658
+x_GURSEL_MAH. = 1.0
+x_KARSIYAKA_MAH. = 1.0
+
+Optimal objective value: 0.0003642001747189427

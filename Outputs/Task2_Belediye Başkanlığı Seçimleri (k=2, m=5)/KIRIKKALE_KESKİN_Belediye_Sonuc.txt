@@ -1,0 +1,8 @@
+KIRIKKALE KESKÝN Belediyesi Seçilen Mahalleler
+
+c_MADEN_MAH. = 0.4029356426979043
+c_YENI_MAH. = 0.5970643573020957
+x_MADEN_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.011964092058061593

@@ -1,0 +1,7 @@
+YOZGAT YENÝFAKILI Belediyesi Seçilen Mahalleler
+
+c_CANKURTARAN_MAH. = 1.0
+x_ALTINDAG_MAH. = 1.0
+x_CANKURTARAN_MAH. = 1.0
+
+Optimal objective value: 0.0007972537589227002

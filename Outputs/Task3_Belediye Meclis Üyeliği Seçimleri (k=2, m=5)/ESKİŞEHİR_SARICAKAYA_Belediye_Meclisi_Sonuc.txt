@@ -1,0 +1,8 @@
+ESKÝÞEHÝR SARICAKAYA Belediye Meclisi Seçilen Mahalleler
+
+c_GUNEY_MAH. = 0.2274802447340475
+c_SARIKAYA_MAH. = 0.7725197552659525
+x_GUNEY_MAH. = 1.0
+x_SARIKAYA_MAH. = 1.0
+
+Optimal objective value: 0.0009821879313677284

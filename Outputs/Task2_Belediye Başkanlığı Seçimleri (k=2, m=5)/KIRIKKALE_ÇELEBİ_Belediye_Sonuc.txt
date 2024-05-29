@@ -1,0 +1,8 @@
+KIRIKKALE ÇELEBÝ Belediyesi Seçilen Mahalleler
+
+c_FATIH_MAH. = 0.5059534949052236
+c_GULVEREN_MAH. = 0.4940465050947764
+x_FATIH_MAH. = 1.0
+x_GULVEREN_MAH. = 1.0
+
+Optimal objective value: 0.00247292384953246

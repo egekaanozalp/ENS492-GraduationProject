@@ -1,0 +1,8 @@
+TRABZON DÜZKÖY Belediye Meclisi Seçilen Mahalleler
+
+c_GOKCELER_MAH. = 0.897705450787323
+c_YERLICE_MAH. = 0.10229454921267706
+x_GOKCELER_MAH. = 1.0
+x_YERLICE_MAH. = 1.0
+
+Optimal objective value: 0.001584877059305878

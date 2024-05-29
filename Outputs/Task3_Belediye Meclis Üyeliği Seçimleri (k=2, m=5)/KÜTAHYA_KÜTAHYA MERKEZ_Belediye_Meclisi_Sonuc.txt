@@ -1,0 +1,8 @@
+KÜTAHYA KÜTAHYA MERKEZ Belediye Meclisi Seçilen Mahalleler
+
+c_100._YIL_MAH. = 0.6874724033788747
+c_ZIGRA_MAH. = 0.3125275966211253
+x_100._YIL_MAH. = 1.0
+x_ZIGRA_MAH. = 1.0
+
+Optimal objective value: 0.0009019396997986817

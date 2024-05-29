@@ -1,0 +1,8 @@
+ÝZMÝR GÜZELBAHÇE Belediye Meclisi Seçilen Mahalleler
+
+c_ATATURK_MAH. = 0.2294108566911899
+c_SITELER_MAH. = 0.7705891433088101
+x_ATATURK_MAH. = 1.0
+x_SITELER_MAH. = 1.0
+
+Optimal objective value: 0.0011794451116606819

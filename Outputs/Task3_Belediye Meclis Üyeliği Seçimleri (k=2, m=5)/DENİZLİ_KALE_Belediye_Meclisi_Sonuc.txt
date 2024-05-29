@@ -1,0 +1,8 @@
+DENÝZLÝ KALE Belediye Meclisi Seçilen Mahalleler
+
+c_KAYABASI_MAH. = 0.3120435724665177
+c_TOKI_MAH. = 0.6879564275334823
+x_KAYABASI_MAH. = 1.0
+x_TOKI_MAH. = 1.0
+
+Optimal objective value: 0.0006277190846382119

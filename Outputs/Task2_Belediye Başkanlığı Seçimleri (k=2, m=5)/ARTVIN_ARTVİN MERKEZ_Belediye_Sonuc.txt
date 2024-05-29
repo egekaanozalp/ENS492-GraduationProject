@@ -1,0 +1,8 @@
+ARTVIN ARTVÝN MERKEZ Belediyesi Seçilen Mahalleler
+
+c_CARSI_MAH. = 0.73749993128476
+c_CAYAGZI_MAH. = 0.26250006871524
+x_CARSI_MAH. = 1.0
+x_CAYAGZI_MAH. = 1.0
+
+Optimal objective value: 0.0008554388675326985

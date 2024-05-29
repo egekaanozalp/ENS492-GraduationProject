@@ -1,0 +1,8 @@
+ORDU ÇATALPINAR Belediyesi Seçilen Mahalleler
+
+c_DERE_MAH. = 0.591962796940456
+c_KAYATEPE_MAH. = 0.4080372030595441
+x_DERE_MAH. = 1.0
+x_KAYATEPE_MAH. = 1.0
+
+Optimal objective value: 0.0005367692017546055

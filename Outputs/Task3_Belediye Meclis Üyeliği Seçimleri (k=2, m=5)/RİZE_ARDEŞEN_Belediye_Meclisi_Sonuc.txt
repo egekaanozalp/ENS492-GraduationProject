@@ -1,0 +1,8 @@
+RÝZE ARDEÞEN Belediye Meclisi Seçilen Mahalleler
+
+c_FATIH_MAH. = 0.8610267398448288
+c_SENTEPE_MAH. = 0.13897326015517125
+x_FATIH_MAH. = 1.0
+x_SENTEPE_MAH. = 1.0
+
+Optimal objective value: 0.0005513604463734945

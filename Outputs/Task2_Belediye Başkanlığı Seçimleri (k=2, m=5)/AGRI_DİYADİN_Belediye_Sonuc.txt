@@ -1,0 +1,8 @@
+AGRI DÝYADÝN Belediyesi Seçilen Mahalleler
+
+c_14_NISAN_MAH. = 0.24040132603126899
+c_ATATURK__MAH. = 0.759598673968731
+x_14_NISAN_MAH. = 1.0
+x_ATATURK__MAH. = 1.0
+
+Optimal objective value: 0.0010425770822775071

@@ -1,0 +1,8 @@
+KIRSEHIR BOZTEPE Belediyesi Seçilen Mahalleler
+
+c_BAGBASI_MAH. = 0.5575188342726063
+c_YENI_MAH. = 0.44248116572739365
+x_BAGBASI_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 7.718242324283864e-05

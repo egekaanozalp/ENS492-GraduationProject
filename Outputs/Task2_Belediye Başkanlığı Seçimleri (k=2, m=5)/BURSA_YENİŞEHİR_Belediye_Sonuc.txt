@@ -1,0 +1,8 @@
+BURSA YENÝÞEHÝR Belediyesi Seçilen Mahalleler
+
+c_AFSAR_MAH. = 0.392811173764852
+c_INCIRLI_MAH. = 0.607188826235148
+x_AFSAR_MAH. = 1.0
+x_INCIRLI_MAH. = 1.0
+
+Optimal objective value: 0.0006429131401108901

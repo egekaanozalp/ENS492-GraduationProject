@@ -1,0 +1,7 @@
+MUÞ BULANIK - UZGÖRÜR Belediye Meclisi Seçilen Mahalleler
+
+c_UZGORUR-FATIH_MAH. = 1.0
+x_UZGORUR-FATIH_MAH. = 1.0
+x_UZGORUR-GAZI_MAH. = 1.0
+
+Optimal objective value: 0.0001774117249120355

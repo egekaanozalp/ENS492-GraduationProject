@@ -1,0 +1,8 @@
+DENIZLI SARAYKÖY Belediyesi Seçilen Mahalleler
+
+c_ADA_MAH. = 0.2674099559611902
+c_TURAN_MAH. = 0.7325900440388098
+x_ADA_MAH. = 1.0
+x_TURAN_MAH. = 1.0
+
+Optimal objective value: 0.0003275939847701137

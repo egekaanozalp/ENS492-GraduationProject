@@ -1,0 +1,8 @@
+NIGDE ÇÝFTLÝK Belediyesi Seçilen Mahalleler
+
+c_YENI_MAH. = 0.5327915776443417
+c_CARSI_MAH. = 0.46720842235565824
+x_YENI_MAH. = 1.0
+x_CARSI_MAH. = 1.0
+
+Optimal objective value: 0.004750641871109407

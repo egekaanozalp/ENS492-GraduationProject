@@ -1,0 +1,8 @@
+ESKISEHIR GÜNYÜZÜ Belediyesi Seçilen Mahalleler
+
+c_KAVACIK_MAH. = 0.2996103360769833
+c_YAZIR_MAH. = 0.7003896639230167
+x_KAVACIK_MAH. = 1.0
+x_YAZIR_MAH. = 1.0
+
+Optimal objective value: 0.0007822821891233511

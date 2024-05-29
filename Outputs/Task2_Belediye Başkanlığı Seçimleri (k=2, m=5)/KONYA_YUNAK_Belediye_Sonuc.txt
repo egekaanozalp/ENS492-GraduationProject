@@ -1,0 +1,8 @@
+KONYA YUNAK Belediyesi Seçilen Mahalleler
+
+c_KILLAR_MAH. = 0.4554684475511981
+c_MESELIK_MAH. = 0.5445315524488019
+x_KILLAR_MAH. = 1.0
+x_MESELIK_MAH. = 1.0
+
+Optimal objective value: 0.004653456284596791

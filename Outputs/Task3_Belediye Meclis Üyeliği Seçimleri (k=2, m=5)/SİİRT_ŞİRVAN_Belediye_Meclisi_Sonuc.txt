@@ -1,0 +1,8 @@
+SÝÝRT ÞÝRVAN Belediye Meclisi Seçilen Mahalleler
+
+c_BAGCILAR_MAH. = 0.12824675374750494
+c_KUFRE_MAH. = 0.8717532462524951
+x_BAGCILAR_MAH. = 1.0
+x_KUFRE_MAH. = 1.0
+
+Optimal objective value: 0.0004482355505206481

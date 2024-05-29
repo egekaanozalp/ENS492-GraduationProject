@@ -1,0 +1,8 @@
+KONYA AHIRLI Belediye Meclisi Seçilen Mahalleler
+
+c_AKKISE_MAH. = 0.5159895489933246
+c_ALICERCI_MAH. = 0.48401045100667534
+x_AKKISE_MAH. = 1.0
+x_ALICERCI_MAH. = 1.0
+
+Optimal objective value: 0.002098871740350172

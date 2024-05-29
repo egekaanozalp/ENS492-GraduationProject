@@ -1,0 +1,8 @@
+BURDUR BURDUR MERKEZ Belediye Meclisi Seçilen Mahalleler
+
+c_AKIN_MAH. = 0.20731910117072883
+c_SINAN_MAH. = 0.7926808988292712
+x_AKIN_MAH. = 1.0
+x_SINAN_MAH. = 1.0
+
+Optimal objective value: 0.00022131770561117925

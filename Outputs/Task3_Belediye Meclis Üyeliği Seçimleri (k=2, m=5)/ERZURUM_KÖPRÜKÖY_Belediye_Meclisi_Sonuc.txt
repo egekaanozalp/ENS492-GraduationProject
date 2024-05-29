@@ -1,0 +1,8 @@
+ERZURUM KÖPRÜKÖY Belediye Meclisi Seçilen Mahalleler
+
+c_DUMANKAYA_MAH. = 0.5661371808237812
+c_CULLU_MAH. = 0.43386281917621883
+x_DUMANKAYA_MAH. = 1.0
+x_CULLU_MAH. = 1.0
+
+Optimal objective value: 0.007253602653035651

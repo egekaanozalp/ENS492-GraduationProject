@@ -1,0 +1,8 @@
+NIGDE NÝÐDE MERKEZ Belediyesi Seçilen Mahalleler
+
+c_AHIPASA_MAH. = 0.4816872078439661
+c_INONU_MAH. = 0.5183127921560339
+x_AHIPASA_MAH. = 1.0
+x_INONU_MAH. = 1.0
+
+Optimal objective value: 0.0007267146773533018

@@ -1,0 +1,8 @@
+DÝYARBAKIR HANÝ Belediye Meclisi Seçilen Mahalleler
+
+c_KIRIM_MAH. = 0.47127263933521113
+c_OKURKOY_MAH. = 0.5287273606647889
+x_KIRIM_MAH. = 1.0
+x_OKURKOY_MAH. = 1.0
+
+Optimal objective value: 0.0018296567624400684

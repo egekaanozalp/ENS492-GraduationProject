@@ -1,0 +1,8 @@
+CANKIRI ÇERKEÞ Belediyesi Seçilen Mahalleler
+
+c_KARALAR_MAH. = 0.7469868812023306
+c_YENI_MAH. = 0.2530131187976694
+x_KARALAR_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.0008760875605385854

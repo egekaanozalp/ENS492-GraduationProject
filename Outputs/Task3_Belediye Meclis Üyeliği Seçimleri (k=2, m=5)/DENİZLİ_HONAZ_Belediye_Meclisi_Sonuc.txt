@@ -1,0 +1,8 @@
+DENÝZLÝ HONAZ Belediye Meclisi Seçilen Mahalleler
+
+c_AFSIN_BEY_MAH. = 0.5163753277596398
+c_KARACAY_MAH. = 0.4836246722403602
+x_AFSIN_BEY_MAH. = 1.0
+x_KARACAY_MAH. = 1.0
+
+Optimal objective value: 0.0004091137206838624

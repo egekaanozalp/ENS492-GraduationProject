@@ -1,0 +1,7 @@
+AFYONKARAHISAR SÝNANPAÞA - KÜÇÜKHÜYÜK Belediyesi Seçilen Mahalleler
+
+c_KUCUKHUYUK-FATIH_MAH. = 1.0
+x_KUCUKHUYUK-FATIH_MAH. = 1.0
+x_KUCUKHUYUK-KURTULUS_MAH. = 1.0
+
+Optimal objective value: 0.20505321781608732

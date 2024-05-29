@@ -1,0 +1,8 @@
+DÝYARBAKIR DÝCLE Belediye Meclisi Seçilen Mahalleler
+
+c_GOLBASI_MAH. = 0.436489331054564
+c_CAVLI_MAH. = 0.563510668945436
+x_GOLBASI_MAH. = 1.0
+x_CAVLI_MAH. = 1.0
+
+Optimal objective value: 0.00021596987490113406

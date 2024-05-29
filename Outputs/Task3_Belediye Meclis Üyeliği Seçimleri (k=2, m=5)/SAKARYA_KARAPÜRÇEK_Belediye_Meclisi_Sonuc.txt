@@ -1,0 +1,8 @@
+SAKARYA KARAPÜRÇEK Belediye Meclisi Seçilen Mahalleler
+
+c_YUKSEL_MAH. = 0.194898529177863
+c_INONU_MAH. = 0.805101470822137
+x_YUKSEL_MAH. = 1.0
+x_INONU_MAH. = 1.0
+
+Optimal objective value: 0.001309000580789088

@@ -1,0 +1,8 @@
+YALOVA ÇÝFTLÝKKÖY Belediye Meclisi Seçilen Mahalleler
+
+c_SAHIL_MAH. = 0.525559076219097
+c_CIFTLIK_MAH. = 0.47444092378090297
+x_SAHIL_MAH. = 1.0
+x_CIFTLIK_MAH. = 1.0
+
+Optimal objective value: 0.001210679817587934

@@ -1,0 +1,8 @@
+SINOP DURAÐAN Belediyesi Seçilen Mahalleler
+
+c_BUZLUK_MAH. = 0.2803218437180576
+c_MERKEZ_MAH. = 0.7196781562819424
+x_BUZLUK_MAH. = 1.0
+x_MERKEZ_MAH. = 1.0
+
+Optimal objective value: 8.444487884329277e-05

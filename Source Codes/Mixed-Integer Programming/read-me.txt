@@ -1,0 +1,4 @@
+Task 1: Mayor elections of metropolitan municipalities.
+Task 2: Mayor elections of municipalities (for towns and districts).
+Task 3: Membership elections of municipal councils.
+Task 4: Membership elections of provincial councils.

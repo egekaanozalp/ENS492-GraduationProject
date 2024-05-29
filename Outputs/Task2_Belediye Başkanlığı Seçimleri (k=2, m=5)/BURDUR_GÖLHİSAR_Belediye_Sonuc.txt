@@ -1,0 +1,8 @@
+BURDUR GÖLHÝSAR Belediyesi Seçilen Mahalleler
+
+c_ARMUTLU_MAH. = 0.17583950605535248
+c_FATIH_MAH. = 0.8241604939446475
+x_ARMUTLU_MAH. = 1.0
+x_FATIH_MAH. = 1.0
+
+Optimal objective value: 0.0010580133414100912

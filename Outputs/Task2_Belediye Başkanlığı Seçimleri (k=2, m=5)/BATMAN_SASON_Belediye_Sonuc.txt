@@ -1,0 +1,8 @@
+BATMAN SASON Belediyesi Seçilen Mahalleler
+
+c_ORTA_MAH. = 0.8453775621809282
+c_YUKARI_MAH. = 0.1546224378190718
+x_ORTA_MAH. = 1.0
+x_YUKARI_MAH. = 1.0
+
+Optimal objective value: 0.0005637724928728716

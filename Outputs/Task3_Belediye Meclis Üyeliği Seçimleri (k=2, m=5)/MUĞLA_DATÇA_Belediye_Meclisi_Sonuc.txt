@@ -1,0 +1,8 @@
+MUÐLA DATÇA Belediye Meclisi Seçilen Mahalleler
+
+c_KARAKOY_MAH. = 0.7016597241570921
+c_MESUDIYE_MAH. = 0.29834027584290795
+x_KARAKOY_MAH. = 1.0
+x_MESUDIYE_MAH. = 1.0
+
+Optimal objective value: 0.0021112924052220094

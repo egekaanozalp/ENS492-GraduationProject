@@ -1,0 +1,8 @@
+ORDU ÇAMAÞ Belediye Meclisi Seçilen Mahalleler
+
+c_AKPINAR_MAH. = 0.1484126984126984
+c_DANISMAN_MAH. = 0.8515873015873016
+x_AKPINAR_MAH. = 1.0
+x_DANISMAN_MAH. = 1.0
+
+Optimal objective value: 0.0019650440524642265

@@ -1,0 +1,8 @@
+DÝYARBAKIR ÇERMÝK Belediye Meclisi Seçilen Mahalleler
+
+c_ARTUK_MAH. = 0.8305728085803339
+c_BAYAT_MAH. = 0.1694271914196661
+x_ARTUK_MAH. = 1.0
+x_BAYAT_MAH. = 1.0
+
+Optimal objective value: 0.0010706718658914927

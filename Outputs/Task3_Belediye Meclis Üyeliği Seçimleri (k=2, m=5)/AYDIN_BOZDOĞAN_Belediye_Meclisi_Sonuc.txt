@@ -1,0 +1,8 @@
+AYDIN BOZDOÐAN Belediye Meclisi Seçilen Mahalleler
+
+c_AKSEKI_MAH. = 0.34078867070620034
+c_PINARLI_MAH. = 0.6592113292937997
+x_AKSEKI_MAH. = 1.0
+x_PINARLI_MAH. = 1.0
+
+Optimal objective value: 0.00036359237083816165

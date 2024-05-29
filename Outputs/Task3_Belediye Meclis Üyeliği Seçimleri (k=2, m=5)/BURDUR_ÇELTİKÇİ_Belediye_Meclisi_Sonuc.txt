@@ -1,0 +1,8 @@
+BURDUR ÇELTÝKÇÝ Belediye Meclisi Seçilen Mahalleler
+
+c_CAMII_MAH. = 0.4664384962281518
+c_KONAK_MAH. = 0.5335615037718482
+x_CAMII_MAH. = 1.0
+x_KONAK_MAH. = 1.0
+
+Optimal objective value: 0.005835919630425845

@@ -1,0 +1,7 @@
+IZMIR SEFERÝHÝSAR Belediyesi Seçilen Mahalleler
+
+c_CAMIKEBIR_MAH. = 1.0
+x_CAMIKEBIR_MAH. = 1.0
+x_TURABIYE_MAH. = 1.0
+
+Optimal objective value: 0.00048544296497377015

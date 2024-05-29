@@ -1,0 +1,8 @@
+KONYA TUZLUKÇU Belediye Meclisi Seçilen Mahalleler
+
+c_ASAGI_MAH. = 0.8727711497785735
+c_YUKARI_MAH. = 0.1272288502214265
+x_ASAGI_MAH. = 1.0
+x_YUKARI_MAH. = 1.0
+
+Optimal objective value: 0.0004640858016967675

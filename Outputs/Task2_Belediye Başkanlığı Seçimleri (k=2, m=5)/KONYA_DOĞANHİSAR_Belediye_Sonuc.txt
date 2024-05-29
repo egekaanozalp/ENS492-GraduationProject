@@ -1,0 +1,8 @@
+KONYA DOÐANHÝSAR Belediyesi Seçilen Mahalleler
+
+c_AYASLAR_MAH. = 0.6148826315807308
+c_YEGIN_MAH. = 0.3851173684192693
+x_AYASLAR_MAH. = 1.0
+x_YEGIN_MAH. = 1.0
+
+Optimal objective value: 0.0016903331037609881

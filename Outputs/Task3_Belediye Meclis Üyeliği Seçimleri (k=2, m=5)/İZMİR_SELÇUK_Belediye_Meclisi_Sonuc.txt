@@ -1,0 +1,8 @@
+ÝZMÝR SELÇUK Belediye Meclisi Seçilen Mahalleler
+
+c_14_MAYIS_MAH. = 0.33869104260356037
+c_ATATURK_MAH. = 0.6613089573964397
+x_14_MAYIS_MAH. = 1.0
+x_ATATURK_MAH. = 1.0
+
+Optimal objective value: 0.0015184922943122237

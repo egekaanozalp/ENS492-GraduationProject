@@ -1,0 +1,7 @@
+SIRNAK ULUDERE - ÞENOBA Belediyesi Seçilen Mahalleler
+
+c_SENOBA-BASKAYA_MAH. = 1.0
+x_SENOBA-AYYILDIZ_MAH. = 1.0
+x_SENOBA-BASKAYA_MAH. = 1.0
+
+Optimal objective value: 0.0008473683409494503

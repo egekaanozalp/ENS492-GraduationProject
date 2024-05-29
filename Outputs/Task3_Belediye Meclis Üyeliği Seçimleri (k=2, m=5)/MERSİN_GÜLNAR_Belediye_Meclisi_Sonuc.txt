@@ -1,0 +1,8 @@
+MERSÝN GÜLNAR Belediye Meclisi Seçilen Mahalleler
+
+c_AKDENIZ_MAH. = 0.7494679768534356
+c_ORTULU_MAH. = 0.25053202314656436
+x_AKDENIZ_MAH. = 1.0
+x_ORTULU_MAH. = 1.0
+
+Optimal objective value: 0.0010009175701636286

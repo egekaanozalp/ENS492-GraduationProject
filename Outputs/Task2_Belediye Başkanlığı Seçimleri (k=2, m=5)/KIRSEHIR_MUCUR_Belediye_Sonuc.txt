@@ -1,0 +1,7 @@
+KIRSEHIR MUCUR Belediyesi Seçilen Mahalleler
+
+c_HAMIDIYE_MAH. = 1.0
+x_ACIOZ_MAH. = 1.0
+x_HAMIDIYE_MAH. = 1.0
+
+Optimal objective value: 0.0005461627706011551

@@ -1,0 +1,8 @@
+ÝZMÝR BERGAMA Belediye Meclisi Seçilen Mahalleler
+
+c_ATCILAR_MAH. = 0.36474685130731016
+c_ZAGNOZ_MAH. = 0.6352531486926898
+x_ATCILAR_MAH. = 1.0
+x_ZAGNOZ_MAH. = 1.0
+
+Optimal objective value: 0.00010847756518606033

@@ -1,0 +1,7 @@
+YOZGAT SARIKAYA Belediyesi Seçilen Mahalleler
+
+c_OSMAN_GAZI_MAH. = 1.0
+x_OSMAN_GAZI_MAH. = 1.0
+x_ISTIKLAL_MAH. = 1.0
+
+Optimal objective value: 0.0007444221327804756

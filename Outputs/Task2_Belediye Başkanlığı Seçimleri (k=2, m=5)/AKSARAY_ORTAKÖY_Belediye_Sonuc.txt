@@ -1,0 +1,7 @@
+AKSARAY ORTAKÖY Belediyesi Seçilen Mahalleler
+
+c_ISTIKLAL_MAH. = 1.0
+x_ESENTEPE_MAH. = 1.0
+x_ISTIKLAL_MAH. = 1.0
+
+Optimal objective value: 0.0003167400087179528

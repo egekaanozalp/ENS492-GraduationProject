@@ -1,0 +1,7 @@
+OSMANÝYE BAHÇE Belediye Meclisi Seçilen Mahalleler
+
+c_CUMHURIYET_MAH. = 1.0
+x_CUMHURIYET_MAH. = 1.0
+x_ISLAM_MAH. = 1.0
+
+Optimal objective value: 0.00047953888772378495

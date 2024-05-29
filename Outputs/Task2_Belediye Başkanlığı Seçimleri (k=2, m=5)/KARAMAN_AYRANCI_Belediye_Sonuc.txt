@@ -1,0 +1,8 @@
+KARAMAN AYRANCI Belediyesi Seçilen Mahalleler
+
+c_DEDE_MAH. = 0.4568851056940716
+c_YENI_MAH. = 0.5431148943059284
+x_DEDE_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.0005724086438095854

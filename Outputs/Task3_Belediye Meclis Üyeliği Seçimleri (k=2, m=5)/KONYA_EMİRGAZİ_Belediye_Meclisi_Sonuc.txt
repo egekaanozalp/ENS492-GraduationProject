@@ -1,0 +1,8 @@
+KONYA EMÝRGAZÝ Belediye Meclisi Seçilen Mahalleler
+
+c_BESCI_MAH. = 0.8347166001782544
+c_KARAOREN_MAH. = 0.16528339982174559
+x_BESCI_MAH. = 1.0
+x_KARAOREN_MAH. = 1.0
+
+Optimal objective value: 0.021608419408668755

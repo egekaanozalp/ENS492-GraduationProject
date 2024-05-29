@@ -1,0 +1,7 @@
+BOLU SEBEN Belediyesi Seçilen Mahalleler
+
+c_KESKINLI_MAH. = 1.0
+x_KESKINLI_MAH. = 1.0
+x_CARSI_MAH. = 1.0
+
+Optimal objective value: 0.02644899308978399

@@ -1,0 +1,8 @@
+ELAZIG PALU Belediyesi Seçilen Mahalleler
+
+c_ASAGI_MAH. = 0.049448908004188
+c_KALEKENT_MAH. = 0.950551091995812
+x_ASAGI_MAH. = 1.0
+x_KALEKENT_MAH. = 1.0
+
+Optimal objective value: 0.0046885881968136145

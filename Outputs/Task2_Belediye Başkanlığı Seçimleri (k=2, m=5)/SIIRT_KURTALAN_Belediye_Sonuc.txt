@@ -1,0 +1,8 @@
+SIIRT KURTALAN Belediyesi Seçilen Mahalleler
+
+c_GUNEY_MAH. = 0.36829357492199377
+c_YENI__MAH. = 0.6317064250780062
+x_GUNEY_MAH. = 1.0
+x_YENI__MAH. = 1.0
+
+Optimal objective value: 0.0003694890703175302

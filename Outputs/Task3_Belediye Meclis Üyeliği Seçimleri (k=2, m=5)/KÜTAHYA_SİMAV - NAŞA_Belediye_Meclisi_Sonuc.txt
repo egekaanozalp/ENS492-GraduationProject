@@ -1,0 +1,7 @@
+KÜTAHYA SÝMAV - NAÞA Belediye Meclisi Seçilen Mahalleler
+
+c_NASA-FATIH_MAH. = 1.0
+x_NASA-CUMHURIYET_MAH. = 1.0
+x_NASA-FATIH_MAH. = 1.0
+
+Optimal objective value: 0.04297318952897977

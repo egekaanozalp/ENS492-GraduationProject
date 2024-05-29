@@ -1,0 +1,8 @@
+RIZE ÇAMLIHEMÞÝN Belediyesi Seçilen Mahalleler
+
+c_MERKEZ_MAH. = 0.837554824272375
+c_YAGMURLU_MAH. = 0.16244517572762499
+x_MERKEZ_MAH. = 1.0
+x_YAGMURLU_MAH. = 1.0
+
+Optimal objective value: 0.07329409281580856

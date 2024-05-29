@@ -1,0 +1,8 @@
+DIYARBAKIR EÐÝL Belediyesi Seçilen Mahalleler
+
+c_KAYA_MAH. = 0.7616812267535774
+c_KIRKKUYU_MAH. = 0.23831877324642262
+x_KAYA_MAH. = 1.0
+x_KIRKKUYU_MAH. = 1.0
+
+Optimal objective value: 0.0008825219835796316

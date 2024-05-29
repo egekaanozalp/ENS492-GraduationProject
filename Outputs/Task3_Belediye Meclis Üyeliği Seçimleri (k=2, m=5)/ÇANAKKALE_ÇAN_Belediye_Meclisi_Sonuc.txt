@@ -1,0 +1,7 @@
+ÇANAKKALE ÇAN Belediye Meclisi Seçilen Mahalleler
+
+c_ATATURK_MAH. = 1.0
+x_ATATURK_MAH. = 1.0
+x_CUMHURIYET_MAH. = 1.0
+
+Optimal objective value: 0.0006285058434680746

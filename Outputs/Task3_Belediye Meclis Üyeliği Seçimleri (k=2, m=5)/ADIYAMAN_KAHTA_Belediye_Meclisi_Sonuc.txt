@@ -1,0 +1,8 @@
+ADIYAMAN KAHTA Belediye Meclisi Seçilen Mahalleler
+
+c_ATATURK_MAH. = 0.1378774335716726
+c_GIRNE_MAH. = 0.8621225664283274
+x_ATATURK_MAH. = 1.0
+x_GIRNE_MAH. = 1.0
+
+Optimal objective value: 0.00034647704487922315

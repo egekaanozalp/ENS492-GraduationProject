@@ -1,0 +1,7 @@
+SÝVAS GEMEREK - ÇEPNÝ Belediye Meclisi Seçilen Mahalleler
+
+c_CEPNI-S.BINBASI_MEHMET_ARAS_MAH. = 1.0
+x_CEPNI-UGUR_MUMCU_MAH. = 1.0
+x_CEPNI-S.BINBASI_MEHMET_ARAS_MAH. = 1.0
+
+Optimal objective value: 0.3870620560875606

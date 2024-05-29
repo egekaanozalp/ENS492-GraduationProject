@@ -1,0 +1,8 @@
+DENÝZLÝ GÜNEY Belediye Meclisi Seçilen Mahalleler
+
+c_DOGANLI_MAH. = 0.34330056577285917
+c_ORTA_MAH. = 0.6566994342271408
+x_DOGANLI_MAH. = 1.0
+x_ORTA_MAH. = 1.0
+
+Optimal objective value: 0.0007955466320402893

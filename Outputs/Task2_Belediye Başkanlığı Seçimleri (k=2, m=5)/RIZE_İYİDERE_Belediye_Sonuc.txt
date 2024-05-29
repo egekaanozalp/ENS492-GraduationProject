@@ -1,0 +1,8 @@
+RIZE ÝYÝDERE Belediyesi Seçilen Mahalleler
+
+c_HAZAR_MAH. = 0.6268851904264716
+c_USTUPILER_MAH. = 0.3731148095735283
+x_HAZAR_MAH. = 1.0
+x_USTUPILER_MAH. = 1.0
+
+Optimal objective value: 0.0004564713941321852

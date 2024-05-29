@@ -1,0 +1,7 @@
+KAHRAMANMARAÞ NURHAK Belediye Meclisi Seçilen Mahalleler
+
+c_KARACAR_MAH. = 1.0
+x_KARACAR_MAH. = 1.0
+x_UMUTLU_MAH. = 1.0
+
+Optimal objective value: 0.13380673373685448

@@ -1,0 +1,8 @@
+ORDU AYBASTI Belediyesi Seçilen Mahalleler
+
+c_BESTAM_MAH. = 0.42336940341204155
+c_CUKUR_MAH. = 0.5766305965879585
+x_BESTAM_MAH. = 1.0
+x_CUKUR_MAH. = 1.0
+
+Optimal objective value: 0.0015904070835582873

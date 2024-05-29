@@ -1,0 +1,8 @@
+BILECIK YENÝPAZAR Belediyesi Seçilen Mahalleler
+
+c_YENI_MAH. = 0.6241764350958636
+c_ZAFER_MAH. = 0.37582356490413643
+x_YENI_MAH. = 1.0
+x_ZAFER_MAH. = 1.0
+
+Optimal objective value: 0.002418124982778602

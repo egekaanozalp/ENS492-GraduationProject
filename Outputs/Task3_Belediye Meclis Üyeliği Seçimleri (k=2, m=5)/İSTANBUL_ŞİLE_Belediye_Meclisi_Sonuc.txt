@@ -1,0 +1,8 @@
+ÝSTANBUL ÞÝLE Belediye Meclisi Seçilen Mahalleler
+
+c_BALIBEY_MAH. = 0.3898143250126669
+c_SOGULLU_MAH. = 0.6101856749873331
+x_BALIBEY_MAH. = 1.0
+x_SOGULLU_MAH. = 1.0
+
+Optimal objective value: 0.0007549584477244409

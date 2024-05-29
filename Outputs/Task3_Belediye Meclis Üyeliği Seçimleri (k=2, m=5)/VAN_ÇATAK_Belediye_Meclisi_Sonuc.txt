@@ -1,0 +1,8 @@
+VAN ÇATAK Belediye Meclisi Seçilen Mahalleler
+
+c_ONAGIL_MAH. = 0.18672414261617395
+c_UZUNTEKNE_MAH. = 0.813275857383826
+x_ONAGIL_MAH. = 1.0
+x_UZUNTEKNE_MAH. = 1.0
+
+Optimal objective value: 0.000774344458609133

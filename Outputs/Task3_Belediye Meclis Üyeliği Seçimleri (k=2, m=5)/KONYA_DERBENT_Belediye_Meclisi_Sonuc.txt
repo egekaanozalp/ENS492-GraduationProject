@@ -1,0 +1,8 @@
+KONYA DERBENT Belediye Meclisi Seçilen Mahalleler
+
+c_MULAYIM_MAH. = 0.7661473817748459
+c_YUKARI_MAH. = 0.23385261822515419
+x_MULAYIM_MAH. = 1.0
+x_YUKARI_MAH. = 1.0
+
+Optimal objective value: 0.0005896546517608625

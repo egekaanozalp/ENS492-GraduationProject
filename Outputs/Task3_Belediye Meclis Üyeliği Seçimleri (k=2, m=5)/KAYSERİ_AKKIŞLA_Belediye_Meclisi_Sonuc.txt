@@ -1,0 +1,8 @@
+KAYSERÝ AKKIÞLA Belediye Meclisi Seçilen Mahalleler
+
+c_GIRINCI_MAH. = 0.3994782589949778
+c_ORTAKOY_MAH. = 0.6005217410050222
+x_GIRINCI_MAH. = 1.0
+x_ORTAKOY_MAH. = 1.0
+
+Optimal objective value: 0.010043754642641955

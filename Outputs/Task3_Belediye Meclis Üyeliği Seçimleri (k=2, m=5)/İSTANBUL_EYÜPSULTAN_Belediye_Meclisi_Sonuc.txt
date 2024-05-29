@@ -1,0 +1,8 @@
+ÝSTANBUL EYÜPSULTAN Belediye Meclisi Seçilen Mahalleler
+
+c_AKPINAR_MAH. = 0.383580425656578
+c_CIRCIR_MAH. = 0.616419574343422
+x_AKPINAR_MAH. = 1.0
+x_CIRCIR_MAH. = 1.0
+
+Optimal objective value: 0.0009339527675057413

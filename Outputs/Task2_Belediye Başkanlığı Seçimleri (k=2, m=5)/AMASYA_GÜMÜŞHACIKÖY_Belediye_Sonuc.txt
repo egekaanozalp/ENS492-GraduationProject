@@ -1,0 +1,8 @@
+AMASYA GÜMÜÞHACIKÖY Belediyesi Seçilen Mahalleler
+
+c_ADATEPE_MAH. = 0.2487428369945156
+c_SARAY_MAH. = 0.7512571630054844
+x_ADATEPE_MAH. = 1.0
+x_SARAY_MAH. = 1.0
+
+Optimal objective value: 0.0007048522966585091

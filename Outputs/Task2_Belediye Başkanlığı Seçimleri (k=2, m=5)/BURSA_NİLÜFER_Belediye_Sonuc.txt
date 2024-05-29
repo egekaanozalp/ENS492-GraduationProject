@@ -1,0 +1,8 @@
+BURSA NÝLÜFER Belediyesi Seçilen Mahalleler
+
+c_29_EKIM_MAH. = 0.5301445382904313
+c_YOLCATI_MAH. = 0.4698554617095687
+x_29_EKIM_MAH. = 1.0
+x_YOLCATI_MAH. = 1.0
+
+Optimal objective value: 0.0005349491112791593

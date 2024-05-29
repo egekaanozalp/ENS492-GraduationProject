@@ -1,0 +1,8 @@
+HATAY ANTAKYA Belediye Meclisi Seçilen Mahalleler
+
+c_AKASYA_MAH. = 0.5919995858256883
+c_UCGEDIK_MAH. = 0.4080004141743116
+x_AKASYA_MAH. = 1.0
+x_UCGEDIK_MAH. = 1.0
+
+Optimal objective value: 0.0002505339398716222

@@ -1,0 +1,8 @@
+KASTAMONU CÝDE Belediye Meclisi Seçilen Mahalleler
+
+c_IRMAK_MAH. = 0.3129060619592784
+c_KASABA_MAH. = 0.6870939380407216
+x_IRMAK_MAH. = 1.0
+x_KASABA_MAH. = 1.0
+
+Optimal objective value: 0.0006817505076823771

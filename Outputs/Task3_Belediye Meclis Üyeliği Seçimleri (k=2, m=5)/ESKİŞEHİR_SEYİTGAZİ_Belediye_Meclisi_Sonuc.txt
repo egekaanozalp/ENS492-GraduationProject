@@ -1,0 +1,8 @@
+ESKÝÞEHÝR SEYÝTGAZÝ Belediye Meclisi Seçilen Mahalleler
+
+c_GEMIC_MAH. = 0.7825319890192906
+c_SALIHLER_MAH. = 0.2174680109807095
+x_GEMIC_MAH. = 1.0
+x_SALIHLER_MAH. = 1.0
+
+Optimal objective value: 0.0003003690380509738

@@ -1,0 +1,8 @@
+ÝZMÝR BUCA Belediye Meclisi Seçilen Mahalleler
+
+c_CAMLIK_MAH. = 0.4789834573327387
+c_CAGDAS_MAH. = 0.5210165426672613
+x_CAMLIK_MAH. = 1.0
+x_CAGDAS_MAH. = 1.0
+
+Optimal objective value: 0.0015674056908787648

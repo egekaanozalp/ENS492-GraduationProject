@@ -1,0 +1,8 @@
+KONYA HADÝM Belediye Meclisi Seçilen Mahalleler
+
+c_KUPLUCE_MAH. = 0.4183831604067918
+c_TASPINAR_MAH. = 0.5816168395932082
+x_KUPLUCE_MAH. = 1.0
+x_TASPINAR_MAH. = 1.0
+
+Optimal objective value: 0.0026855443396269774

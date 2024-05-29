@@ -1,0 +1,8 @@
+BURDUR ÇAVDIR Belediye Meclisi Seçilen Mahalleler
+
+c_BAYIR_MAH. = 0.293862754770005
+c_PAZAR_MAH. = 0.706137245229995
+x_BAYIR_MAH. = 1.0
+x_PAZAR_MAH. = 1.0
+
+Optimal objective value: 0.0008407473003406718

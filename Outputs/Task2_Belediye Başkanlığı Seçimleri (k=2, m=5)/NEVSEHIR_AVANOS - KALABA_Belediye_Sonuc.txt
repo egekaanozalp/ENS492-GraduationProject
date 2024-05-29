@@ -1,0 +1,7 @@
+NEVSEHIR AVANOS - KALABA Belediyesi Seçilen Mahalleler
+
+c_KALABA-KARAYUSUF_MAH. = 1.0
+x_KALABA-KARAYUSUF_MAH. = 1.0
+x_KALABA-YENI_MAH. = 1.0
+
+Optimal objective value: 0.00213852513462387

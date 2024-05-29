@@ -1,0 +1,8 @@
+ERZURUM TORTUM Belediyesi Seçilen Mahalleler
+
+c_BALLI_MAH. = 0.300903704294857
+c_KIRMALI_MAH. = 0.699096295705143
+x_BALLI_MAH. = 1.0
+x_KIRMALI_MAH. = 1.0
+
+Optimal objective value: 0.0023560623827989513

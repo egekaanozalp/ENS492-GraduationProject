@@ -1,0 +1,8 @@
+ÝZMÝR ÇEÞME Belediye Meclisi Seçilen Mahalleler
+
+c_ALACATI_MAH. = 0.9054911195602882
+c_KARAKOY_MAH. = 0.09450888043971184
+x_ALACATI_MAH. = 1.0
+x_KARAKOY_MAH. = 1.0
+
+Optimal objective value: 0.002807769491040668

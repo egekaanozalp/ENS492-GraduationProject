@@ -1,0 +1,8 @@
+ÝSTANBUL ATAÞEHÝR Belediye Meclisi Seçilen Mahalleler
+
+c_ATATURK_MAH. = 0.24292187515093355
+c_INONU_MAH. = 0.7570781248490664
+x_ATATURK_MAH. = 1.0
+x_INONU_MAH. = 1.0
+
+Optimal objective value: 0.0012499924588443845

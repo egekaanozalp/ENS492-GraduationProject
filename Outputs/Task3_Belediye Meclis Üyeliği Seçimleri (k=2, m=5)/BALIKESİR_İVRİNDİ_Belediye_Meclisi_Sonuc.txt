@@ -1,0 +1,8 @@
+BALIKESÝR ÝVRÝNDÝ Belediye Meclisi Seçilen Mahalleler
+
+c_KAYAPA_MAH. = 0.4343646189915349
+c_KINA_MAH. = 0.5656353810084651
+x_KAYAPA_MAH. = 1.0
+x_KINA_MAH. = 1.0
+
+Optimal objective value: 0.00024011250688027452

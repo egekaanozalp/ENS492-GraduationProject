@@ -1,0 +1,8 @@
+RIZE HEMÞÝN Belediyesi Seçilen Mahalleler
+
+c_MUTLU_MAH. = 0.5021387900834271
+c_ORTAKOY_MAH. = 0.4978612099165729
+x_MUTLU_MAH. = 1.0
+x_ORTAKOY_MAH. = 1.0
+
+Optimal objective value: 0.00012049052866069943

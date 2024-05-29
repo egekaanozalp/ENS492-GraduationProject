@@ -1,0 +1,8 @@
+HATAY HASSA Belediyesi Seçilen Mahalleler
+
+c_SAPANOZU_MAH. = 0.23985931773997782
+c_CAY_MAH. = 0.7601406822600222
+x_SAPANOZU_MAH. = 1.0
+x_CAY_MAH. = 1.0
+
+Optimal objective value: 0.0008510459680542981

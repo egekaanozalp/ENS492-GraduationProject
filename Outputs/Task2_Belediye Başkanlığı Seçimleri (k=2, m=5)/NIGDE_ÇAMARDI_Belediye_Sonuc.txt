@@ -1,0 +1,8 @@
+NIGDE ÇAMARDI Belediyesi Seçilen Mahalleler
+
+c_MADEN_MAH. = 0.0621365757603585
+c_YENI_CARSI_MAH. = 0.9378634242396415
+x_MADEN_MAH. = 1.0
+x_YENI_CARSI_MAH. = 1.0
+
+Optimal objective value: 0.000739796570699558

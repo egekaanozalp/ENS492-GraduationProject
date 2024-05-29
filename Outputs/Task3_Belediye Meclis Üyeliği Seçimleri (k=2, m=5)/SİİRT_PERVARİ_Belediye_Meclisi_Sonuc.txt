@@ -1,0 +1,8 @@
+SÝÝRT PERVARÝ Belediye Meclisi Seçilen Mahalleler
+
+c_AYDIN_MAH. = 0.7180324743716587
+c_SAKIRAN_MAH. = 0.2819675256283416
+x_AYDIN_MAH. = 1.0
+x_SAKIRAN_MAH. = 1.0
+
+Optimal objective value: 2.1999554898455287e-05

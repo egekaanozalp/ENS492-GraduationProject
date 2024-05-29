@@ -1,0 +1,7 @@
+NEVSEHIR NEVÞEHÝR MERKEZ - NAR Belediyesi Seçilen Mahalleler
+
+c_NAR-BAS_MAH. = 1.0
+x_NAR-ASAGI_MAH. = 1.0
+x_NAR-BAS_MAH. = 1.0
+
+Optimal objective value: 0.024212989794011208

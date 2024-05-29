@@ -1,0 +1,8 @@
+GÝRESUN ESPÝYE Belediye Meclisi Seçilen Mahalleler
+
+c_CIBRIL_MAH. = 0.29225897141819546
+c_CAM_MAH. = 0.7077410285818045
+x_CIBRIL_MAH. = 1.0
+x_CAM_MAH. = 1.0
+
+Optimal objective value: 0.002078805044474219

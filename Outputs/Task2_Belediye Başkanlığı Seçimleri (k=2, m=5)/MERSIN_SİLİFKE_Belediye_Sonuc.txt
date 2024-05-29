@@ -1,0 +1,8 @@
+MERSIN SÝLÝFKE Belediyesi Seçilen Mahalleler
+
+c_BURUNUCU_MAH. = 0.7037275927113142
+c_SAY_MAH. = 0.29627240728868576
+x_BURUNUCU_MAH. = 1.0
+x_SAY_MAH. = 1.0
+
+Optimal objective value: 0.0005007075863651123

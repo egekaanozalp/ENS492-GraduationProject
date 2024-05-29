@@ -1,0 +1,8 @@
+NÝÐDE BOR Belediye Meclisi Seçilen Mahalleler
+
+c_ACIGOL_MAH. = 0.1682770869607625
+c_FATIH_MAH. = 0.8317229130392375
+x_ACIGOL_MAH. = 1.0
+x_FATIH_MAH. = 1.0
+
+Optimal objective value: 0.0006856493488868187

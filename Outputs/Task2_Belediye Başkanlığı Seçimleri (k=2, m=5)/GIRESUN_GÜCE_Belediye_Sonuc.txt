@@ -1,0 +1,8 @@
+GIRESUN GÜCE Belediyesi Seçilen Mahalleler
+
+c_GUCE_MAH. = 0.42080839126871505
+c_KEMALIYE_MAH. = 0.579191608731285
+x_GUCE_MAH. = 1.0
+x_KEMALIYE_MAH. = 1.0
+
+Optimal objective value: 0.0011550681748353497

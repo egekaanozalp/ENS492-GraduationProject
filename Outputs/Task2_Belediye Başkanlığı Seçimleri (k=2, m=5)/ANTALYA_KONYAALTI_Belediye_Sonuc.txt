@@ -1,0 +1,8 @@
+ANTALYA KONYAALTI Belediyesi Seçilen Mahalleler
+
+c_HURMA_MAH. = 0.6539899631556265
+c_ULUC_MAH. = 0.3460100368443734
+x_HURMA_MAH. = 1.0
+x_ULUC_MAH. = 1.0
+
+Optimal objective value: 0.00088643354062512

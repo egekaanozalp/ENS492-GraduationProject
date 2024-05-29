@@ -1,0 +1,7 @@
+ANTALYA MANAVGAT Belediye Meclisi Seçilen Mahalleler
+
+c_COLAKLI_MAH. = 1.0
+x_A._HISAR_MAH. = 1.0
+x_COLAKLI_MAH. = 1.0
+
+Optimal objective value: 0.0005121048253813321

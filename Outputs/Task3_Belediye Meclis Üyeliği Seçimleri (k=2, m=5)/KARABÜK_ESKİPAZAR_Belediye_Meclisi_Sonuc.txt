@@ -1,0 +1,8 @@
+KARABÜK ESKÝPAZAR Belediye Meclisi Seçilen Mahalleler
+
+c_KIRANKOY_MAH. = 0.4616113728211715
+c_MERKEZ_MAH. = 0.5383886271788285
+x_KIRANKOY_MAH. = 1.0
+x_MERKEZ_MAH. = 1.0
+
+Optimal objective value: 0.005532150927018642

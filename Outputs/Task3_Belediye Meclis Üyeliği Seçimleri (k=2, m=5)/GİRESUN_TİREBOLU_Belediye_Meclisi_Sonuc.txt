@@ -1,0 +1,8 @@
+GÝRESUN TÝREBOLU Belediye Meclisi Seçilen Mahalleler
+
+c_CINTASI_MAH. = 0.6653230965695457
+c_DEMIRCI_MAH. = 0.3346769034304543
+x_CINTASI_MAH. = 1.0
+x_DEMIRCI_MAH. = 1.0
+
+Optimal objective value: 0.0011442408958288741

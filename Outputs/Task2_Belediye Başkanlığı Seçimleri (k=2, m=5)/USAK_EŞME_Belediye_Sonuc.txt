@@ -1,0 +1,7 @@
+USAK EÞME Belediyesi Seçilen Mahalleler
+
+c_ISTASYON_MAH. = 1.0
+x_ISTASYON_MAH. = 1.0
+x_SEHITALIBEY_MAH. = 1.0
+
+Optimal objective value: 6.637335356962648e-05

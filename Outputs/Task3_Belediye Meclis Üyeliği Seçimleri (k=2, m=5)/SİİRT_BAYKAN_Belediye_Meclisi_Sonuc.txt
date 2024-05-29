@@ -1,0 +1,8 @@
+SÝÝRT BAYKAN Belediye Meclisi Seçilen Mahalleler
+
+c_HAVEL_MAH. = 0.24703432940223724
+c_YENIDOGAN_MAH. = 0.7529656705977628
+x_HAVEL_MAH. = 1.0
+x_YENIDOGAN_MAH. = 1.0
+
+Optimal objective value: 0.004237312842102603

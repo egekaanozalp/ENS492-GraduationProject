@@ -1,0 +1,8 @@
+USAK KARAHALLI Belediyesi Seçilen Mahalleler
+
+c_BOGAZ_MAH. = 0.40496633513882363
+c_DERE_MAH. = 0.5950336648611764
+x_BOGAZ_MAH. = 1.0
+x_DERE_MAH. = 1.0
+
+Optimal objective value: 0.0004051215892323379

@@ -1,0 +1,8 @@
+KONYA TUZLUKÇU Belediyesi Seçilen Mahalleler
+
+c_ASAGI_MAH. = 0.8017381498767797
+c_YUKARI_MAH. = 0.19826185012322026
+x_ASAGI_MAH. = 1.0
+x_YUKARI_MAH. = 1.0
+
+Optimal objective value: 0.0009131813117305709

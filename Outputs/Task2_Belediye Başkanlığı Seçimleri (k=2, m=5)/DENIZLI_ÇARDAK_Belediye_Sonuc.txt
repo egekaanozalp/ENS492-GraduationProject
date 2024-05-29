@@ -1,0 +1,8 @@
+DENIZLI ÇARDAK Belediyesi Seçilen Mahalleler
+
+c_GOLCUK_MAH. = 0.2749144234493196
+c_CINAR_MAH. = 0.7250855765506804
+x_GOLCUK_MAH. = 1.0
+x_CINAR_MAH. = 1.0
+
+Optimal objective value: 0.002470826262903625

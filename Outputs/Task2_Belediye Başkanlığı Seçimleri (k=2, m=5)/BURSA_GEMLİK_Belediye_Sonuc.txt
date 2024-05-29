@@ -1,0 +1,8 @@
+BURSA GEMLÝK Belediyesi Seçilen Mahalleler
+
+c_ATA_MAH. = 0.645487910378908
+c_UMURBEY_MAH. = 0.354512089621092
+x_ATA_MAH. = 1.0
+x_UMURBEY_MAH. = 1.0
+
+Optimal objective value: 0.000954405906879896

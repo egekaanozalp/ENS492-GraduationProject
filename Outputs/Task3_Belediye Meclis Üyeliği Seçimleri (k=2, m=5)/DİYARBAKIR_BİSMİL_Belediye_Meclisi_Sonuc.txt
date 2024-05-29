@@ -1,0 +1,8 @@
+DÝYARBAKIR BÝSMÝL Belediye Meclisi Seçilen Mahalleler
+
+c_ALIBEY_MAH. = 0.8241758190453797
+c_DICLE_MAH. = 0.17582418095462024
+x_ALIBEY_MAH. = 1.0
+x_DICLE_MAH. = 1.0
+
+Optimal objective value: 0.0007094349987899484

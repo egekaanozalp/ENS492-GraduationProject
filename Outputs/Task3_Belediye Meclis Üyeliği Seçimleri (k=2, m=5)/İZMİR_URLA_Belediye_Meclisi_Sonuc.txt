@@ -1,0 +1,8 @@
+ÝZMÝR URLA Belediye Meclisi Seçilen Mahalleler
+
+c_ISKELE_MAH. = 0.4076115178886103
+c_ICMELER_MAH. = 0.5923884821113897
+x_ISKELE_MAH. = 1.0
+x_ICMELER_MAH. = 1.0
+
+Optimal objective value: 0.0010494768581009728

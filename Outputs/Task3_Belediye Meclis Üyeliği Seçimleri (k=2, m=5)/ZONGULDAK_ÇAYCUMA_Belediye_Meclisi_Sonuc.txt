@@ -1,0 +1,8 @@
+ZONGULDAK ÇAYCUMA Belediye Meclisi Seçilen Mahalleler
+
+c_GEMICILER_MAH. = 0.16724047539052914
+c_CAY_MAH. = 0.8327595246094711
+x_GEMICILER_MAH. = 1.0
+x_CAY_MAH. = 1.0
+
+Optimal objective value: 0.0010302062709250936

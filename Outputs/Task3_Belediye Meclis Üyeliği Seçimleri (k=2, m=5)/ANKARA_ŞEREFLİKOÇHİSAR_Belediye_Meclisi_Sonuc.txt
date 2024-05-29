@@ -1,0 +1,8 @@
+ANKARA ÞEREFLÝKOÇHÝSAR Belediye Meclisi Seçilen Mahalleler
+
+c_KALE_MAH. = 0.3214240616293341
+c_YAZISOGUT_MAH. = 0.6785759383706659
+x_KALE_MAH. = 1.0
+x_YAZISOGUT_MAH. = 1.0
+
+Optimal objective value: 0.0008534752111934996

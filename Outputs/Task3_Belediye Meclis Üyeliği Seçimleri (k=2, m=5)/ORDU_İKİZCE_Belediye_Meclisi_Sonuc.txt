@@ -1,0 +1,8 @@
+ORDU ÝKÝZCE Belediye Meclisi Seçilen Mahalleler
+
+c_YOGUNOLUK_MAH. = 0.3267986079239442
+c_OZPINAR_MAH. = 0.6732013920760558
+x_YOGUNOLUK_MAH. = 1.0
+x_OZPINAR_MAH. = 1.0
+
+Optimal objective value: 0.0013122952160078416

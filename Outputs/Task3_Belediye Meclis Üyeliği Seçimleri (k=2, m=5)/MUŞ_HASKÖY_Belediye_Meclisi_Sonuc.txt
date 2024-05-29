@@ -1,0 +1,8 @@
+MUÞ HASKÖY Belediye Meclisi Seçilen Mahalleler
+
+c_SAYANLAR_MAH. = 0.3069018196801169
+c_SUNAY_MAH. = 0.693098180319883
+x_SAYANLAR_MAH. = 1.0
+x_SUNAY_MAH. = 1.0
+
+Optimal objective value: 0.14929185526152589

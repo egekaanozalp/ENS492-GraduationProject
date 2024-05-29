@@ -1,0 +1,8 @@
+SÝÝRT ERUH Belediye Meclisi Seçilen Mahalleler
+
+c_FATIH_MAH. = 0.8451695438066392
+c_SARIGUL_MAH. = 0.15483045619336078
+x_FATIH_MAH. = 1.0
+x_SARIGUL_MAH. = 1.0
+
+Optimal objective value: 0.00624134588799552

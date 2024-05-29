@@ -1,0 +1,8 @@
+ÝZMÝR KARABAÐLAR Belediye Meclisi Seçilen Mahalleler
+
+c_ARAP_HASAN_MAH. = 0.5284484644534904
+c_OZGUR_MAH. = 0.4715515355465096
+x_ARAP_HASAN_MAH. = 1.0
+x_OZGUR_MAH. = 1.0
+
+Optimal objective value: 0.0022265060189412544

@@ -1,0 +1,8 @@
+SÝÝRT KURTALAN Belediye Meclisi Seçilen Mahalleler
+
+c_GARZAN_MAH. = 0.3996380145710594
+c_YENIDOGAN_MAH. = 0.6003619854289406
+x_GARZAN_MAH. = 1.0
+x_YENIDOGAN_MAH. = 1.0
+
+Optimal objective value: 0.0001501183365067993

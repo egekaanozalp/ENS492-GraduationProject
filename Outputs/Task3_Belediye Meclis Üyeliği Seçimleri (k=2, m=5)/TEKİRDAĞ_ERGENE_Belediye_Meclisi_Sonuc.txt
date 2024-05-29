@@ -1,0 +1,8 @@
+TEKÝRDAÐ ERGENE Belediye Meclisi Seçilen Mahalleler
+
+c_KIRKGOZ_MAH. = 0.40313201889943096
+c_ULAS_MAH. = 0.596867981100569
+x_KIRKGOZ_MAH. = 1.0
+x_ULAS_MAH. = 1.0
+
+Optimal objective value: 0.0007433456561305452

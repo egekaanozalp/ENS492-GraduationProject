@@ -1,0 +1,8 @@
+EDÝRNE MERÝÇ - KÜPLÜ Belediye Meclisi Seçilen Mahalleler
+
+c_KUPLU-GAZI_MAH. = 0.5291028396479882
+c_KUPLU-MERKEZ_MAH. = 0.47089716035201185
+x_KUPLU-GAZI_MAH. = 1.0
+x_KUPLU-MERKEZ_MAH. = 1.0
+
+Optimal objective value: 3.781384719458991e-06

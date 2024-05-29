@@ -1,0 +1,8 @@
+KUTAHYA TAVÞANLI Belediyesi Seçilen Mahalleler
+
+c_ADA_MAH. = 0.263604659723671
+c_YENI_MAH. = 0.736395340276329
+x_ADA_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.0005466829929110517

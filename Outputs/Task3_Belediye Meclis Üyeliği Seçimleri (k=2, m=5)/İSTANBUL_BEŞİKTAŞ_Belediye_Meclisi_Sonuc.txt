@@ -1,0 +1,8 @@
+ÝSTANBUL BEÞÝKTAÞ Belediye Meclisi Seçilen Mahalleler
+
+c_ABBASAGA_MAH. = 0.23146452819325192
+c_BEBEK_MAH. = 0.7685354718067481
+x_ABBASAGA_MAH. = 1.0
+x_BEBEK_MAH. = 1.0
+
+Optimal objective value: 0.0007343197271718616

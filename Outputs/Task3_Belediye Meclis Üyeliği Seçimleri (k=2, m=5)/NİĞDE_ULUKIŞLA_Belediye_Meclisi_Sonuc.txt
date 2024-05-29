@@ -1,0 +1,8 @@
+NÝÐDE ULUKIÞLA Belediye Meclisi Seçilen Mahalleler
+
+c_KEMALPASA_MAH. = 0.7096026859849471
+c_COVEK_MAH. = 0.2903973140150529
+x_KEMALPASA_MAH. = 1.0
+x_COVEK_MAH. = 1.0
+
+Optimal objective value: 0.0006504053928227949

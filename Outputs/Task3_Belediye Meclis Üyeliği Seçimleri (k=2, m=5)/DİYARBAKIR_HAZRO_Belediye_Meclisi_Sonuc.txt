@@ -1,0 +1,8 @@
+DÝYARBAKIR HAZRO Belediye Meclisi Seçilen Mahalleler
+
+c_DADAS_MAH. = 0.6581079049076116
+c_COKEKSU_MAH. = 0.3418920950923884
+x_DADAS_MAH. = 1.0
+x_COKEKSU_MAH. = 1.0
+
+Optimal objective value: 0.0009403731089374645

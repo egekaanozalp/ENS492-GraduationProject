@@ -1,0 +1,8 @@
+MUGLA DATÇA Belediyesi Seçilen Mahalleler
+
+c_CUMALI_MAH. = 0.15519045134781417
+c_ISKELE_MAH. = 0.8448095486521858
+x_CUMALI_MAH. = 1.0
+x_ISKELE_MAH. = 1.0
+
+Optimal objective value: 0.0003977943383275395

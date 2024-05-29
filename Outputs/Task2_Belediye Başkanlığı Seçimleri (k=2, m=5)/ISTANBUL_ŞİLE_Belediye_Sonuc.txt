@@ -1,0 +1,8 @@
+ISTANBUL ÞÝLE Belediyesi Seçilen Mahalleler
+
+c_BALIBEY_MAH. = 0.34529552337764857
+c_KORUCU_MAH. = 0.6547044766223514
+x_BALIBEY_MAH. = 1.0
+x_KORUCU_MAH. = 1.0
+
+Optimal objective value: 0.0007029159441986899

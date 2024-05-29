@@ -1,0 +1,8 @@
+YOZGAT YERKÖY Belediye Meclisi Seçilen Mahalleler
+
+c_100.YIL_MAH. = 0.6038279486337863
+c_VEFI_PANDIR_MAH. = 0.3961720513662137
+x_100.YIL_MAH. = 1.0
+x_VEFI_PANDIR_MAH. = 1.0
+
+Optimal objective value: 0.00047267908786852164

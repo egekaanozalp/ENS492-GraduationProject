@@ -1,0 +1,8 @@
+MUS BULANIK Belediyesi Seçilen Mahalleler
+
+c_MESCITLI_MAH. = 0.4717528165450374
+c_YENI_MAH. = 0.5282471834549626
+x_MESCITLI_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.001371737328552669

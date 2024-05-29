@@ -1,0 +1,8 @@
+VAN SARAY Belediye Meclisi Seçilen Mahalleler
+
+c_ATATURK__MAH. = 0.1915252475779019
+c_KEKIKDUZU_MAH. = 0.8084747524220981
+x_ATATURK__MAH. = 1.0
+x_KEKIKDUZU_MAH. = 1.0
+
+Optimal objective value: 0.0005123309527423903

@@ -1,0 +1,7 @@
+YOZGAT KADIÞEHRÝ - HALIKÖY Belediyesi Seçilen Mahalleler
+
+c_HALIKOY-FATIH__MAH. = 1.0
+x_HALIKOY-BAHCELI_EVLER_MAH. = 1.0
+x_HALIKOY-FATIH__MAH. = 1.0
+
+Optimal objective value: 0.0004714754642818342

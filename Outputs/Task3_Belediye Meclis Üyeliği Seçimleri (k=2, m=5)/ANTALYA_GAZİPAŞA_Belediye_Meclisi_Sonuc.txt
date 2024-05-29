@@ -1,0 +1,8 @@
+ANTALYA GAZÝPAÞA Belediye Meclisi Seçilen Mahalleler
+
+c_AKOLUK_MAH. = 0.08963042339990324
+c_CAKMAK_MAH. = 0.9103695766000968
+x_AKOLUK_MAH. = 1.0
+x_CAKMAK_MAH. = 1.0
+
+Optimal objective value: 0.0010057972820409766

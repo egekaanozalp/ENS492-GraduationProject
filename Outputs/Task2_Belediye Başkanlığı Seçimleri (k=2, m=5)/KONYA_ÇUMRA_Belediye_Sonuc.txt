@@ -1,0 +1,8 @@
+KONYA ÇUMRA Belediyesi Seçilen Mahalleler
+
+c_AFSAR_MAH. = 0.02513320814135178
+c_YENI_MAH. = 0.9748667918586482
+x_AFSAR_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.0010913551641886787

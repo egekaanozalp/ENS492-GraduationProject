@@ -1,0 +1,8 @@
+KÜTAHYA SÝMAV Belediye Meclisi Seçilen Mahalleler
+
+c_101_EVLER_MAH. = 0.5496086976806668
+c_ESENEVLER_MAH. = 0.4503913023193332
+x_101_EVLER_MAH. = 1.0
+x_ESENEVLER_MAH. = 1.0
+
+Optimal objective value: 0.002519533764103299

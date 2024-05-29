@@ -1,0 +1,8 @@
+SAMSUN ASARCIK Belediyesi Seçilen Mahalleler
+
+c_ACISU_MAH. = 0.06562274556840131
+c_ALAN_MAH. = 0.9343772544315987
+x_ACISU_MAH. = 1.0
+x_ALAN_MAH. = 1.0
+
+Optimal objective value: 0.0007521938260699468

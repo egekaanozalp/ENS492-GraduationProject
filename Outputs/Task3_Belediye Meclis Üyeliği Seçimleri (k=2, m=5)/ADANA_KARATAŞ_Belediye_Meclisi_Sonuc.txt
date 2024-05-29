@@ -1,0 +1,8 @@
+ADANA KARATAÞ Belediye Meclisi Seçilen Mahalleler
+
+c_KEMALIYE_MAH. = 0.4402978453827079
+c_TUZLA_MAH. = 0.5597021546172921
+x_KEMALIYE_MAH. = 1.0
+x_TUZLA_MAH. = 1.0
+
+Optimal objective value: 0.0010504455014858083

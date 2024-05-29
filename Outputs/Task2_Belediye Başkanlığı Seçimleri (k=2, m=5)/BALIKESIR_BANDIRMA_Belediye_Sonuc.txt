@@ -1,0 +1,7 @@
+BALIKESIR BANDIRMA Belediyesi Seçilen Mahalleler
+
+c_IHSANIYE_MAH. = 1.0
+x_PASAMESCIT_MAH. = 1.0
+x_IHSANIYE_MAH. = 1.0
+
+Optimal objective value: 0.0010227886382887519

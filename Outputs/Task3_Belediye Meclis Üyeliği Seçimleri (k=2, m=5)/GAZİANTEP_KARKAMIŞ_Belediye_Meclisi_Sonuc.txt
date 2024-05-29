@@ -1,0 +1,8 @@
+GAZÝANTEP KARKAMIÞ Belediye Meclisi Seçilen Mahalleler
+
+c_AKCAKOY_MAH. = 0.391568010333879
+c_YASAR_MAH. = 0.608431989666121
+x_AKCAKOY_MAH. = 1.0
+x_YASAR_MAH. = 1.0
+
+Optimal objective value: 0.0011058007828350647

@@ -1,0 +1,8 @@
+MUGLA YATAÐAN Belediyesi Seçilen Mahalleler
+
+c_AKYOL_MAH. = 0.7011566289670871
+c_MESKEN_MAH. = 0.2988433710329129
+x_AKYOL_MAH. = 1.0
+x_MESKEN_MAH. = 1.0
+
+Optimal objective value: 0.0002098983359215545

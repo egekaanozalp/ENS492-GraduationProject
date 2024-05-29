@@ -1,0 +1,8 @@
+MALATYA DOÐANYOL Belediye Meclisi Seçilen Mahalleler
+
+c_GOKCE_MAH. = 0.3000070343992355
+c_YALINCA_MAH. = 0.6999929656007645
+x_GOKCE_MAH. = 1.0
+x_YALINCA_MAH. = 1.0
+
+Optimal objective value: 0.03147086957839029

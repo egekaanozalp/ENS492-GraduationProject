@@ -1,0 +1,8 @@
+CANKIRI ILGAZ Belediyesi Seçilen Mahalleler
+
+c_GAZI_DEDE_MAH. = 0.718646234536632
+c_YENI_MAH. = 0.28135376546336804
+x_GAZI_DEDE_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.0004937641495440515

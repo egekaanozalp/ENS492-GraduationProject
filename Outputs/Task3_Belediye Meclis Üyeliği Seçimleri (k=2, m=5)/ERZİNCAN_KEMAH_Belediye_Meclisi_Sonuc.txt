@@ -1,0 +1,8 @@
+ERZÝNCAN KEMAH Belediye Meclisi Seçilen Mahalleler
+
+c_KARSIBAG_MAH. = 0.24381285639098593
+c_CARSI_MAH. = 0.7561871436090141
+x_KARSIBAG_MAH. = 1.0
+x_CARSI_MAH. = 1.0
+
+Optimal objective value: 0.0003780318171020536

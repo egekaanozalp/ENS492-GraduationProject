@@ -1,0 +1,8 @@
+BINGOL YEDÝSU Belediyesi Seçilen Mahalleler
+
+c_DOSENGI_MAH. = 0.3124946034100464
+c_MERKEZ_MAH. = 0.6875053965899536
+x_DOSENGI_MAH. = 1.0
+x_MERKEZ_MAH. = 1.0
+
+Optimal objective value: 0.00886607772134218

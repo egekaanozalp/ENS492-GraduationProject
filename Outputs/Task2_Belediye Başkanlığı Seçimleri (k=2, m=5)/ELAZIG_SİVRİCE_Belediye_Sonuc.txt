@@ -1,0 +1,8 @@
+ELAZIG SÝVRÝCE Belediyesi Seçilen Mahalleler
+
+c_HAZAR_MAH. = 0.49123984114079244
+c_OLGUNLAR_MAH. = 0.5087601588592076
+x_HAZAR_MAH. = 1.0
+x_OLGUNLAR_MAH. = 1.0
+
+Optimal objective value: 0.002208879057456148

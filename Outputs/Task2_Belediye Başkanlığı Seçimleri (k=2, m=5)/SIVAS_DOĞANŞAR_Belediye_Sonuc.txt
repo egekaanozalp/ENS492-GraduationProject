@@ -1,0 +1,8 @@
+SIVAS DOÐANÞAR Belediyesi Seçilen Mahalleler
+
+c_CAY_MAH. = 0.5450869883698493
+c_OMERAGA_MAH. = 0.45491301163015074
+x_CAY_MAH. = 1.0
+x_OMERAGA_MAH. = 1.0
+
+Optimal objective value: 0.011929113727296436

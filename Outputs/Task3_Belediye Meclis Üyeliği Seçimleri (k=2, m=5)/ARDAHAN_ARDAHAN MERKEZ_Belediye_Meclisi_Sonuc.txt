@@ -1,0 +1,7 @@
+ARDAHAN ARDAHAN MERKEZ Belediye Meclisi Seçilen Mahalleler
+
+c_KARAGOL_MAH. = 1.0
+x_ATATURK_MAH. = 1.0
+x_KARAGOL_MAH. = 1.0
+
+Optimal objective value: 0.009864811267185858

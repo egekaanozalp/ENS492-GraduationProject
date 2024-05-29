@@ -1,0 +1,8 @@
+ÝSTANBUL ÜMRANÝYE Belediye Meclisi Seçilen Mahalleler
+
+c_HUZUR_MAH. = 0.7434737912713203
+c_TATLISU_MAH. = 0.25652620872867965
+x_HUZUR_MAH. = 1.0
+x_TATLISU_MAH. = 1.0
+
+Optimal objective value: 0.001470710890563831

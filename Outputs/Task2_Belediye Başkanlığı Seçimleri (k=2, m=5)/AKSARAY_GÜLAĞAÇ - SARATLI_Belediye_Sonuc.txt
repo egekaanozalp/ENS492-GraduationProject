@@ -1,0 +1,7 @@
+AKSARAY GÜLAÐAÇ - SARATLI Belediyesi Seçilen Mahalleler
+
+c_SARATLI-ZAFER_MAH. = 1.0
+x_SARATLI-ZAFER_MAH. = 1.0
+x_SARATLI-ISTIKLAL_MAH. = 1.0
+
+Optimal objective value: 0.11627319396415414

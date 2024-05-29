@@ -1,0 +1,8 @@
+ÝZMÝR ÖDEMÝÞ Belediye Meclisi Seçilen Mahalleler
+
+c_AKINCILAR_MAH. = 0.09592743070780341
+c_CAYLI_MAH. = 0.9040725692921966
+x_AKINCILAR_MAH. = 1.0
+x_CAYLI_MAH. = 1.0
+
+Optimal objective value: 0.0010586303526102236

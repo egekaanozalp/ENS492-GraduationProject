@@ -1,0 +1,8 @@
+TUNCELI PÜLÜMÜR Belediyesi Seçilen Mahalleler
+
+c_HIVER_MAH. = 0.17879185292934596
+c_MERKEZ_MAH. = 0.821208147070654
+x_HIVER_MAH. = 1.0
+x_MERKEZ_MAH. = 1.0
+
+Optimal objective value: 0.008996660782773502

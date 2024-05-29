@@ -1,0 +1,8 @@
+BURSA KESTEL Belediye Meclisi Seçilen Mahalleler
+
+c_ESENTEPE_MAH. = 0.709121809410771
+c_SEYMEN_MAH. = 0.2908781905892291
+x_ESENTEPE_MAH. = 1.0
+x_SEYMEN_MAH. = 1.0
+
+Optimal objective value: 0.0018256967398162516

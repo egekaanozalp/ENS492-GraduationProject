@@ -1,0 +1,8 @@
+ADANA ÝMAMOÐLU Belediye Meclisi Seçilen Mahalleler
+
+c_UFACIKOREN_MAH. = 0.252339949284316
+c_CORTEN_MAH. = 0.747660050715684
+x_UFACIKOREN_MAH. = 1.0
+x_CORTEN_MAH. = 1.0
+
+Optimal objective value: 0.00344953814054183

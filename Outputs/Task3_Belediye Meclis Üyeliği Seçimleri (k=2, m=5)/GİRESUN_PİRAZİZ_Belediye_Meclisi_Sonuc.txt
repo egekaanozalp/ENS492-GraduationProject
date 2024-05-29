@@ -1,0 +1,8 @@
+GÝRESUN PÝRAZÝZ Belediye Meclisi Seçilen Mahalleler
+
+c_ETLIKKIRAN_MAH. = 0.28436357215759833
+c_MADEN_MAH. = 0.7156364278424017
+x_ETLIKKIRAN_MAH. = 1.0
+x_MADEN_MAH. = 1.0
+
+Optimal objective value: 0.0009429902029708392

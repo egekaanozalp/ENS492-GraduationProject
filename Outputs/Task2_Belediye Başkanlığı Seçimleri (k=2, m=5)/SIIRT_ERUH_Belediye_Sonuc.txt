@@ -1,0 +1,8 @@
+SIIRT ERUH Belediyesi Seçilen Mahalleler
+
+c_FATIH_MAH. = 0.8430013758321635
+c_SARIGUL_MAH. = 0.15699862416783644
+x_FATIH_MAH. = 1.0
+x_SARIGUL_MAH. = 1.0
+
+Optimal objective value: 0.0014455357916047795

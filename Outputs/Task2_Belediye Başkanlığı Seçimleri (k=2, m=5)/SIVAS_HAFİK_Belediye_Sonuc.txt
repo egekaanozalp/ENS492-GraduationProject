@@ -1,0 +1,8 @@
+SIVAS HAFÝK Belediyesi Seçilen Mahalleler
+
+c_YENI_MAH. = 0.5839386047099993
+c_CAY_MAH. = 0.4160613952900007
+x_YENI_MAH. = 1.0
+x_CAY_MAH. = 1.0
+
+Optimal objective value: 0.001043249341785013

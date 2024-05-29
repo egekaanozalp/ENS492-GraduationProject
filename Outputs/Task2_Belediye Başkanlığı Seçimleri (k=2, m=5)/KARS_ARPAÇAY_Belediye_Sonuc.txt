@@ -1,0 +1,8 @@
+KARS ARPAÇAY Belediyesi Seçilen Mahalleler
+
+c_ORTA_MAH. = 0.631384990069009
+c_YENI_MAH. = 0.368615009930991
+x_ORTA_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.0008638271216200311

@@ -1,0 +1,8 @@
+SINOP DÝKMEN Belediyesi Seçilen Mahalleler
+
+c_KIRCAL_MAH. = 0.8573476755546059
+c_CORAK_MAH. = 0.1426523244453941
+x_KIRCAL_MAH. = 1.0
+x_CORAK_MAH. = 1.0
+
+Optimal objective value: 0.0003424259437911914

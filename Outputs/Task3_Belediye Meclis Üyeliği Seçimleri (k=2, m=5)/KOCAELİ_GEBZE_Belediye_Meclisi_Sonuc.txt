@@ -1,0 +1,8 @@
+KOCAELÝ GEBZE Belediye Meclisi Seçilen Mahalleler
+
+c_ADEM_YAVUZ_MAH. = 0.6005014420270325
+c_INONU_MAH. = 0.3994985579729675
+x_ADEM_YAVUZ_MAH. = 1.0
+x_INONU_MAH. = 1.0
+
+Optimal objective value: 0.0012122016641233913

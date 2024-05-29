@@ -1,0 +1,8 @@
+ÇORUM ALACA Belediye Meclisi Seçilen Mahalleler
+
+c_DENIZHAN_MAH. = 0.36953215000016815
+c_OZHAN_MAH. = 0.6304678499998319
+x_DENIZHAN_MAH. = 1.0
+x_OZHAN_MAH. = 1.0
+
+Optimal objective value: 0.0008303996142314807

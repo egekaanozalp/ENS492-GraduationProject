@@ -1,0 +1,8 @@
+ORDU PERÞEMBE Belediye Meclisi Seçilen Mahalleler
+
+c_DEREICI_MAH. = 0.5247180020593512
+c_NENELI_MAH. = 0.4752819979406488
+x_DEREICI_MAH. = 1.0
+x_NENELI_MAH. = 1.0
+
+Optimal objective value: 0.0004054737519356699

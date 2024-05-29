@@ -1,0 +1,8 @@
+CORUM BAYAT Belediyesi Seçilen Mahalleler
+
+c_YATUKCU_MAH. = 0.5856604525886346
+c_YENI_MAH. = 0.4143395474113653
+x_YATUKCU_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.0015982621886694304

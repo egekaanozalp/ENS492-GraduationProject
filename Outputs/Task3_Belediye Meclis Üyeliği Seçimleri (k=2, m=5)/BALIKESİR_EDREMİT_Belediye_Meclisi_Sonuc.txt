@@ -1,0 +1,8 @@
+BALIKESÝR EDREMÝT Belediye Meclisi Seçilen Mahalleler
+
+c_AKCAY_MAH. = 0.24579517765384584
+c_NARLI_MAH. = 0.7542048223461542
+x_AKCAY_MAH. = 1.0
+x_NARLI_MAH. = 1.0
+
+Optimal objective value: 0.003590863939678668

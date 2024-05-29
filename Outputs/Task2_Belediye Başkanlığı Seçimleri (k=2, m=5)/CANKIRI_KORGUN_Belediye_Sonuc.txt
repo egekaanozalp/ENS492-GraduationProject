@@ -1,0 +1,8 @@
+CANKIRI KORGUN Belediyesi Seçilen Mahalleler
+
+c_DOGU_MAH. = 0.41547651344429426
+c_ULUDAG_MAH. = 0.5845234865557057
+x_DOGU_MAH. = 1.0
+x_ULUDAG_MAH. = 1.0
+
+Optimal objective value: 2.949856537681761e-05

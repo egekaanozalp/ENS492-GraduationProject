@@ -1,0 +1,8 @@
+SIVAS GÖLOVA Belediyesi Seçilen Mahalleler
+
+c_A.CAMII_MAH. = 0.8164765063743274
+c_CALKAYA_MAH. = 0.18352349362567258
+x_A.CAMII_MAH. = 1.0
+x_CALKAYA_MAH. = 1.0
+
+Optimal objective value: 0.037080590343470554

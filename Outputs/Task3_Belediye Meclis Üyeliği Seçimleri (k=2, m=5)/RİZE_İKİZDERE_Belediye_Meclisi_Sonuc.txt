@@ -1,0 +1,8 @@
+RÝZE ÝKÝZDERE Belediye Meclisi Seçilen Mahalleler
+
+c_CARSI_MAH. = 0.880594044067684
+c_CAGRANKAYA__MAH. = 0.1194059559323159
+x_CARSI_MAH. = 1.0
+x_CAGRANKAYA__MAH. = 1.0
+
+Optimal objective value: 0.0020309787046522976

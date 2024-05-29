@@ -1,0 +1,8 @@
+KARABÜK SAFRANBOLU Belediye Meclisi Seçilen Mahalleler
+
+c_AKCASU_MAH. = 0.13423434653700173
+c_EMEK_MAH. = 0.8657656534629983
+x_AKCASU_MAH. = 1.0
+x_EMEK_MAH. = 1.0
+
+Optimal objective value: 0.0011181293211612875

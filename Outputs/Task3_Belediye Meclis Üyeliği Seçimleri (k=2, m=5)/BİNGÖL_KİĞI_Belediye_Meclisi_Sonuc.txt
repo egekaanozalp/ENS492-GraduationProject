@@ -1,0 +1,8 @@
+BÝNGÖL KÝÐI Belediye Meclisi Seçilen Mahalleler
+
+c_ESKISEHIR_MAH. = 0.13959165803740903
+c_YENISEHIR_MAH. = 0.860408341962591
+x_ESKISEHIR_MAH. = 1.0
+x_YENISEHIR_MAH. = 1.0
+
+Optimal objective value: 0.0007360096064853439

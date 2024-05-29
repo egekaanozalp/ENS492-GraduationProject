@@ -1,0 +1,7 @@
+ELAZIG MADEN Belediyesi Seçilen Mahalleler
+
+c_CAMII_KEBIR_MAH. = 1.0
+x_BAHCELIEVLER_MAH. = 1.0
+x_CAMII_KEBIR_MAH. = 1.0
+
+Optimal objective value: 0.000845436712055947

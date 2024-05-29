@@ -1,0 +1,7 @@
+ISPARTA ULUBORLU Belediyesi Seçilen Mahalleler
+
+c_SERENLER_MAH. = 1.0
+x_GURESYERI_MAH. = 1.0
+x_SERENLER_MAH. = 1.0
+
+Optimal objective value: 0.0008072019830227539

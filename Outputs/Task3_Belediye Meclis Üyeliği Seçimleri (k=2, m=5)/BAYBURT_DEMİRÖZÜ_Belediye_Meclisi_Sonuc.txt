@@ -1,0 +1,8 @@
+BAYBURT DEMÝRÖZÜ Belediye Meclisi Seçilen Mahalleler
+
+c_CIFTETAS_MAH. = 0.31057345112144047
+c_SIRIN_MAH. = 0.6894265488785596
+x_CIFTETAS_MAH. = 1.0
+x_SIRIN_MAH. = 1.0
+
+Optimal objective value: 7.116574978072165e-05

@@ -1,0 +1,7 @@
+ELAZIÐ MADEN Belediye Meclisi Seçilen Mahalleler
+
+c_CAMII_KEBIR_MAH. = 1.0
+x_BAHCELIEVLER_MAH. = 1.0
+x_CAMII_KEBIR_MAH. = 1.0
+
+Optimal objective value: 0.0018944035074178744

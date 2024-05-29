@@ -1,0 +1,8 @@
+TOKAT ZÝLE Belediyesi Seçilen Mahalleler
+
+c_CEDIT_MAH. = 0.29298542379276216
+c_KISLIK_MAH. = 0.7070145762072378
+x_CEDIT_MAH. = 1.0
+x_KISLIK_MAH. = 1.0
+
+Optimal objective value: 0.0009360835676153201

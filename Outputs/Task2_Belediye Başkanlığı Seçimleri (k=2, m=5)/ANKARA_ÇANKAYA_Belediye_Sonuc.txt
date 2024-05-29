@@ -1,0 +1,8 @@
+ANKARA ÇANKAYA Belediyesi Seçilen Mahalleler
+
+c_UMUT_MAH. = 0.5933302357237642
+c_UMIT_MAH. = 0.40666976427623586
+x_UMUT_MAH. = 1.0
+x_UMIT_MAH. = 1.0
+
+Optimal objective value: 0.00042642023552108554

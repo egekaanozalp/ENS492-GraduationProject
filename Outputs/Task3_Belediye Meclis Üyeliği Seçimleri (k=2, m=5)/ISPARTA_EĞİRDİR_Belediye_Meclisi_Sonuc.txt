@@ -1,0 +1,8 @@
+ISPARTA EÐÝRDÝR Belediye Meclisi Seçilen Mahalleler
+
+c_KUBBELI_MAH. = 0.364041541911977
+c_SEKIBAG_MAH. = 0.635958458088023
+x_KUBBELI_MAH. = 1.0
+x_SEKIBAG_MAH. = 1.0
+
+Optimal objective value: 0.0010817052684798378

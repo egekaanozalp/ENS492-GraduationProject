@@ -1,0 +1,8 @@
+MARDIN ÖMERLÝ Belediyesi Seçilen Mahalleler
+
+c_YENI_MAH. = 0.6728453155850529
+c_CIMENLIK_MAH. = 0.32715468441494716
+x_YENI_MAH. = 1.0
+x_CIMENLIK_MAH. = 1.0
+
+Optimal objective value: 0.000620726601383681

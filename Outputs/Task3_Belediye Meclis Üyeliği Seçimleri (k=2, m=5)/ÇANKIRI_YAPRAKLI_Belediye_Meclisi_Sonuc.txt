@@ -1,0 +1,8 @@
+ÇANKIRI YAPRAKLI Belediye Meclisi Seçilen Mahalleler
+
+c_ASAGI_MAH. = 0.6381399400547871
+c_YUKARI_MAH. = 0.36186005994521286
+x_ASAGI_MAH. = 1.0
+x_YUKARI_MAH. = 1.0
+
+Optimal objective value: 0.0010362242657505627

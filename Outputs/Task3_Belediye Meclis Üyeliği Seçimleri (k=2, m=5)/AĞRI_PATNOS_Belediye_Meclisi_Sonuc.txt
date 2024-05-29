@@ -1,0 +1,8 @@
+AÐRI PATNOS Belediye Meclisi Seçilen Mahalleler
+
+c_CAMI_MAH. = 0.3221096008497839
+c_CUMHURIYET_MAH. = 0.6778903991502161
+x_CAMI_MAH. = 1.0
+x_CUMHURIYET_MAH. = 1.0
+
+Optimal objective value: 0.0012490544386228875

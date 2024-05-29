@@ -1,0 +1,8 @@
+ANTALYA KAÞ Belediye Meclisi Seçilen Mahalleler
+
+c_DOGANTAS_MAH. = 0.7393260451416128
+c_CAMLIKOY_MAH. = 0.2606739548583871
+x_DOGANTAS_MAH. = 1.0
+x_CAMLIKOY_MAH. = 1.0
+
+Optimal objective value: 0.004197741116319653

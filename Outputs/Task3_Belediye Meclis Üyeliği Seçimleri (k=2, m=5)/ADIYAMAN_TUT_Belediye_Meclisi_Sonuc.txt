@@ -1,0 +1,8 @@
+ADIYAMAN TUT Belediye Meclisi Seçilen Mahalleler
+
+c_AYNIYE_MAH. = 0.772890274589504
+c_RESADIYE_MAH. = 0.22710972541049604
+x_AYNIYE_MAH. = 1.0
+x_RESADIYE_MAH. = 1.0
+
+Optimal objective value: 0.0008529072237760671

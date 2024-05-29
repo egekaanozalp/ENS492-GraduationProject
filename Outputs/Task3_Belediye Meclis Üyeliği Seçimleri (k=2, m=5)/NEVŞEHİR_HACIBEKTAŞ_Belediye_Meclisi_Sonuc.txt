@@ -1,0 +1,7 @@
+NEVÞEHÝR HACIBEKTAÞ Belediye Meclisi Seçilen Mahalleler
+
+c_ZIR_MAH. = 1.0
+x_SAVAT_MAH. = 1.0
+x_ZIR_MAH. = 1.0
+
+Optimal objective value: 0.2661664379983323

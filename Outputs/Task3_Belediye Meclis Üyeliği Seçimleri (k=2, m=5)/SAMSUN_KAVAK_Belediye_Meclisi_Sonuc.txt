@@ -1,0 +1,8 @@
+SAMSUN KAVAK Belediye Meclisi Seçilen Mahalleler
+
+c_19_MAYIS_MAH. = 0.7332862065340936
+c_IDRISLI_MAH. = 0.2667137934659064
+x_19_MAYIS_MAH. = 1.0
+x_IDRISLI_MAH. = 1.0
+
+Optimal objective value: 0.0004833203386245266

@@ -1,0 +1,8 @@
+IZMIR KONAK Belediyesi Seçilen Mahalleler
+
+c_KONAK_MAH. = 0.88388155253196
+c_KURTULUS_MAH. = 0.11611844746804004
+x_KONAK_MAH. = 1.0
+x_KURTULUS_MAH. = 1.0
+
+Optimal objective value: 0.0010976204941115508

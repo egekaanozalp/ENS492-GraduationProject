@@ -1,0 +1,8 @@
+ÝZMÝR MENEMEN Belediye Meclisi Seçilen Mahalleler
+
+c_CUMHURIYET_MAH. = 0.6834965061645826
+c_KESIK_MAH. = 0.3165034938354175
+x_CUMHURIYET_MAH. = 1.0
+x_KESIK_MAH. = 1.0
+
+Optimal objective value: 0.0018156133065261315

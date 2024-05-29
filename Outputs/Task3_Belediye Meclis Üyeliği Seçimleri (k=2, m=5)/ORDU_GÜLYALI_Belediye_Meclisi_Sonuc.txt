@@ -1,0 +1,8 @@
+ORDU GÜLYALI Belediye Meclisi Seçilen Mahalleler
+
+c_HOSKOY_MAH. = 0.27289530783101756
+c_SAYACA_MAH. = 0.7271046921689824
+x_HOSKOY_MAH. = 1.0
+x_SAYACA_MAH. = 1.0
+
+Optimal objective value: 0.00033423024806766843

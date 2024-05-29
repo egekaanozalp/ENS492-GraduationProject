@@ -1,0 +1,7 @@
+BINGOL SOLHAN - ARAKONAK Belediyesi Seçilen Mahalleler
+
+c_ARAKONAK-KULTUR_MAH. = 1.0
+x_ARAKONAK-KARSIYAKA_MAH. = 1.0
+x_ARAKONAK-KULTUR_MAH. = 1.0
+
+Optimal objective value: 0.2511021719961053

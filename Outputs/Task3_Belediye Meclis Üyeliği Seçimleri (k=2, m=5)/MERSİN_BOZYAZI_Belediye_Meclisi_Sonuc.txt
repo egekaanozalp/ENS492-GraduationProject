@@ -1,0 +1,8 @@
+MERSÝN BOZYAZI Belediye Meclisi Seçilen Mahalleler
+
+c_AKCAMI_MAH. = 0.4260445821499102
+c_ELMAKUZU_MAH. = 0.5739554178500899
+x_AKCAMI_MAH. = 1.0
+x_ELMAKUZU_MAH. = 1.0
+
+Optimal objective value: 0.0010129581936372256

@@ -1,0 +1,8 @@
+HATAY BELEN Belediye Meclisi Seçilen Mahalleler
+
+c_ATIK_MAH. = 0.5438598249341203
+c_OTENCAY_MAH. = 0.45614017506587967
+x_ATIK_MAH. = 1.0
+x_OTENCAY_MAH. = 1.0
+
+Optimal objective value: 0.0009420678030775953

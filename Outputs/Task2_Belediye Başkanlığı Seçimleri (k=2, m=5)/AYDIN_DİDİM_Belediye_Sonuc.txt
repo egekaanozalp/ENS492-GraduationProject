@@ -1,0 +1,8 @@
+AYDIN DÝDÝM Belediyesi Seçilen Mahalleler
+
+c_EFELER_MAH. = 0.5558875910436144
+c_YENI_MAH. = 0.4441124089563856
+x_EFELER_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.0009581068854404018

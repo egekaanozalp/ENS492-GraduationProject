@@ -1,0 +1,8 @@
+ÞANLIURFA SÝVEREK Belediye Meclisi Seçilen Mahalleler
+
+c_CINHISAR_MAH. = 0.57074533271596
+c_ILERI_MAH. = 0.42925466728404005
+x_CINHISAR_MAH. = 1.0
+x_ILERI_MAH. = 1.0
+
+Optimal objective value: 0.0017838847797875257

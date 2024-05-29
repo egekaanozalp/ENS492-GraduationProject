@@ -1,0 +1,8 @@
+MUGLA SEYDÝKEMER Belediyesi Seçilen Mahalleler
+
+c_ALACAT_MAH. = 0.17622849961420572
+c_OREN_MAH. = 0.8237715003857943
+x_ALACAT_MAH. = 1.0
+x_OREN_MAH. = 1.0
+
+Optimal objective value: 0.000843706889483431

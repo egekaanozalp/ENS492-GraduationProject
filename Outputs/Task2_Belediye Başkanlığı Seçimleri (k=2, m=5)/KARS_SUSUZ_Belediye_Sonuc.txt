@@ -1,0 +1,8 @@
+KARS SUSUZ Belediyesi Seçilen Mahalleler
+
+c_INKILAP_MAH. = 0.8183805447557257
+c_INONU_MAH. = 0.1816194552442743
+x_INKILAP_MAH. = 1.0
+x_INONU_MAH. = 1.0
+
+Optimal objective value: 0.0033152358539982885

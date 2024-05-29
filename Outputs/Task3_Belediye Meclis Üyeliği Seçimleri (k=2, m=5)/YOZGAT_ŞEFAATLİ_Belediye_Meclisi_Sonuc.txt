@@ -1,0 +1,8 @@
+YOZGAT ÞEFAATLÝ Belediye Meclisi Seçilen Mahalleler
+
+c_YENI_MAH. = 0.594704681612945
+c_INCESEHIR_MAH. = 0.405295318387055
+x_YENI_MAH. = 1.0
+x_INCESEHIR_MAH. = 1.0
+
+Optimal objective value: 0.0007288717060299765

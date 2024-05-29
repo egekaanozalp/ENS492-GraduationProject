@@ -1,0 +1,8 @@
+GAZIANTEP NÝZÝP Belediyesi Seçilen Mahalleler
+
+c_ALAHACI_MAH. = 0.15950910795830786
+c_SAHA_MAH. = 0.8404908920416921
+x_ALAHACI_MAH. = 1.0
+x_SAHA_MAH. = 1.0
+
+Optimal objective value: 0.00048814524690843353

@@ -1,0 +1,8 @@
+ADANA ÝMAMOÐLU Belediyesi Seçilen Mahalleler
+
+c_MENTES_MAH. = 0.19296550672622437
+c_CORTEN_MAH. = 0.8070344932737756
+x_MENTES_MAH. = 1.0
+x_CORTEN_MAH. = 1.0
+
+Optimal objective value: 0.0050779472840213336

@@ -1,0 +1,8 @@
+ANKARA KEÇÝÖREN Belediye Meclisi Seçilen Mahalleler
+
+c_EMRAH_MAH. = 0.5474832187196106
+c_SARIBEYLER_MAH. = 0.45251678128038947
+x_EMRAH_MAH. = 1.0
+x_SARIBEYLER_MAH. = 1.0
+
+Optimal objective value: 0.000827718445255643

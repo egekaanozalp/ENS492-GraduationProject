@@ -1,0 +1,8 @@
+BATMAN BEÞÝRÝ Belediye Meclisi Seçilen Mahalleler
+
+c_KOBIN_MAH. = 0.3875636607868532
+c_MEHMET_YATKIN_MAH. = 0.6124363392131468
+x_KOBIN_MAH. = 1.0
+x_MEHMET_YATKIN_MAH. = 1.0
+
+Optimal objective value: 0.0008715746474535768

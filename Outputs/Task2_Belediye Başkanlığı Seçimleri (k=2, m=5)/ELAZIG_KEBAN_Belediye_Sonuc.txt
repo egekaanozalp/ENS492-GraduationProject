@@ -1,0 +1,7 @@
+ELAZIG KEBAN Belediyesi Seçilen Mahalleler
+
+c_DEGIRMENBASI_MAH. = 1.0
+x_BARAJ_MAH. = 1.0
+x_DEGIRMENBASI_MAH. = 1.0
+
+Optimal objective value: 0.14082283149484565

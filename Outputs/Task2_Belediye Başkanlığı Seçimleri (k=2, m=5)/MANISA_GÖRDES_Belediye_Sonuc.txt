@@ -1,0 +1,8 @@
+MANISA GÖRDES Belediyesi Seçilen Mahalleler
+
+c_CUMA_MAH. = 0.37300045092259204
+c_GULPINAR_MAH. = 0.626999549077408
+x_CUMA_MAH. = 1.0
+x_GULPINAR_MAH. = 1.0
+
+Optimal objective value: 0.0008012853955987609

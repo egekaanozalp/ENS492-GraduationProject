@@ -1,0 +1,8 @@
+MUGLA KÖYCEÐÝZ Belediyesi Seçilen Mahalleler
+
+c_AKKOPRU_MAH. = 0.4746129627045661
+c_GELISIM_MAH. = 0.5253870372954339
+x_AKKOPRU_MAH. = 1.0
+x_GELISIM_MAH. = 1.0
+
+Optimal objective value: 0.0009579082878409251

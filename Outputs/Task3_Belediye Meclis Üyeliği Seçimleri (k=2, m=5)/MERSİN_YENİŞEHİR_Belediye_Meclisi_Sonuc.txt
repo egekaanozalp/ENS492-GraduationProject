@@ -1,0 +1,8 @@
+MERSÝN YENÝÞEHÝR Belediye Meclisi Seçilen Mahalleler
+
+c_DENIZ_MAH. = 0.23016551339429014
+c_GUVENEVLER_MAH. = 0.7698344866057099
+x_DENIZ_MAH. = 1.0
+x_GUVENEVLER_MAH. = 1.0
+
+Optimal objective value: 0.0013520708910240709

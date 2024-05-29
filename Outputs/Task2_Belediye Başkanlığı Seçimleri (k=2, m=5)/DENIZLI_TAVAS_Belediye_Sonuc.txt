@@ -1,0 +1,8 @@
+DENIZLI TAVAS Belediyesi Seçilen Mahalleler
+
+c_HIRKA_MAH. = 0.8065966261718126
+c_KAYACA_MAH. = 0.1934033738281874
+x_HIRKA_MAH. = 1.0
+x_KAYACA_MAH. = 1.0
+
+Optimal objective value: 0.0002065044446850628

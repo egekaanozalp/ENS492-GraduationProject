@@ -1,0 +1,7 @@
+ÞIRNAK ULUDERE - UZUNGEÇÝT Belediye Meclisi Seçilen Mahalleler
+
+c_UZUNGECIT-PINARBASI_MAH. = 1.0
+x_UZUNGECIT-AYYILDIZ_MAH. = 1.0
+x_UZUNGECIT-PINARBASI_MAH. = 1.0
+
+Optimal objective value: 0.08343597707350159

@@ -1,0 +1,8 @@
+AKSARAY ORTAKÖY Belediye Meclisi Seçilen Mahalleler
+
+c_FATIH_MAH. = 0.9671239215359653
+c_KIZILAY_MAH. = 0.03287607846403473
+x_FATIH_MAH. = 1.0
+x_KIZILAY_MAH. = 1.0
+
+Optimal objective value: 0.00029942320449427573

@@ -1,0 +1,8 @@
+SIRNAK GÜÇLÜKONAK Belediyesi Seçilen Mahalleler
+
+c_BAGLAR_MAH. = 0.40769536965447073
+c_YENI_MAH. = 0.5923046303455294
+x_BAGLAR_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.00042110525726823944

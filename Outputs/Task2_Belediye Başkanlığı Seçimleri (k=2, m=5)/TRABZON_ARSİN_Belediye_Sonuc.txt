@@ -1,0 +1,8 @@
+TRABZON ARSÝN Belediyesi Seçilen Mahalleler
+
+c_ATAYURT_MAH. = 0.1027740313942711
+c_OZLU_MAH. = 0.8972259686057289
+x_ATAYURT_MAH. = 1.0
+x_OZLU_MAH. = 1.0
+
+Optimal objective value: 0.00025969991066232545

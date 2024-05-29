@@ -1,0 +1,8 @@
+BÝTLÝS BÝTLÝS MERKEZ Belediye Meclisi Seçilen Mahalleler
+
+c_ZEYDAN_MAH. = 0.32366035381607106
+c_INONU_MAH. = 0.6763396461839289
+x_ZEYDAN_MAH. = 1.0
+x_INONU_MAH. = 1.0
+
+Optimal objective value: 0.003410840074600241

@@ -1,0 +1,8 @@
+ANKARA SÝNCAN Belediyesi Seçilen Mahalleler
+
+c_29_EKIM_MAH. = 0.34501302136004774
+c_ILYAKUT_MAH. = 0.6549869786399523
+x_29_EKIM_MAH. = 1.0
+x_ILYAKUT_MAH. = 1.0
+
+Optimal objective value: 0.0007375321625953113

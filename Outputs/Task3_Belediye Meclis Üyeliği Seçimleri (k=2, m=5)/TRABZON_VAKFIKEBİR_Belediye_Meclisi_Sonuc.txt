@@ -1,0 +1,8 @@
+TRABZON VAKFIKEBÝR Belediye Meclisi Seçilen Mahalleler
+
+c_HAMZALI_MAH. = 0.34857311368798194
+c_KOREZ_MAH. = 0.6514268863120181
+x_HAMZALI_MAH. = 1.0
+x_KOREZ_MAH. = 1.0
+
+Optimal objective value: 0.00052402699718479

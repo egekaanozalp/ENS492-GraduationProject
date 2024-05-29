@@ -1,0 +1,8 @@
+BURDUR TEFENNÝ Belediyesi Seçilen Mahalleler
+
+c_KIR_MAH. = 0.31773710248886555
+c_PAZAR_MAH. = 0.6822628975111344
+x_KIR_MAH. = 1.0
+x_PAZAR_MAH. = 1.0
+
+Optimal objective value: 0.003041552031420758

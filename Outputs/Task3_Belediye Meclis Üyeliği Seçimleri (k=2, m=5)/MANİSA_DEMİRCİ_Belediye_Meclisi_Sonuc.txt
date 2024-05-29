@@ -1,0 +1,8 @@
+MANÝSA DEMÝRCÝ Belediye Meclisi Seçilen Mahalleler
+
+c_AHATLAR_MAH. = 0.5696332387197007
+c_IRISLER_MAH. = 0.43036676128029927
+x_AHATLAR_MAH. = 1.0
+x_IRISLER_MAH. = 1.0
+
+Optimal objective value: 0.0008503324183994909

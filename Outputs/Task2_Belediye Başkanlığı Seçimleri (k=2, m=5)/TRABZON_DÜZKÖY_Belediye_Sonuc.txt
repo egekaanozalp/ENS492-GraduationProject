@@ -1,0 +1,8 @@
+TRABZON DÜZKÖY Belediyesi Seçilen Mahalleler
+
+c_ALAZLI_MAH. = 0.85911005167981
+c_CAL_ORTA_MAH. = 0.14088994832018997
+x_ALAZLI_MAH. = 1.0
+x_CAL_ORTA_MAH. = 1.0
+
+Optimal objective value: 0.0003408627447074597

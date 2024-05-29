@@ -1,0 +1,7 @@
+MUÞ KORKUT - ALTINOVA Belediye Meclisi Seçilen Mahalleler
+
+c_ALTINOVA-AYDINLAR_MAH. = 1.0
+x_ALTINOVA-AYDINLAR_MAH. = 1.0
+x_ALTINOVA-BAHCELIEVLER_MAH. = 1.0
+
+Optimal objective value: 0.00036544559427387213

@@ -1,0 +1,8 @@
+KASTAMONU ÝHSANGAZÝ Belediyesi Seçilen Mahalleler
+
+c_AFSAR_MAH. = 0.07805795433443719
+c_YENI_MAH. = 0.9219420456655628
+x_AFSAR_MAH. = 1.0
+x_YENI_MAH. = 1.0
+
+Optimal objective value: 0.0002851423453922308

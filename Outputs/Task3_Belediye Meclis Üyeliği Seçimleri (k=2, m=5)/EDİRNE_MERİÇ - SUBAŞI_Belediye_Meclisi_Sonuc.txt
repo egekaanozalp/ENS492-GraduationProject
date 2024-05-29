@@ -1,0 +1,7 @@
+EDÝRNE MERÝÇ - SUBAÞI Belediye Meclisi Seçilen Mahalleler
+
+c_SUBASI-IZZET_PASA_MAH. = 1.0
+x_SUBASI-IZZET_PASA_MAH. = 1.0
+x_SUBASI-SEHIT_MEHMET_AYDIN_MAH. = 1.0
+
+Optimal objective value: 0.08928190057353058

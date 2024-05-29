@@ -1,0 +1,8 @@
+ORDU ÇATALPINAR Belediye Meclisi Seçilen Mahalleler
+
+c_GOLLER_MAH. = 0.3436307541320188
+c_GUNEY_MAH. = 0.6563692458679812
+x_GOLLER_MAH. = 1.0
+x_GUNEY_MAH. = 1.0
+
+Optimal objective value: 0.00031679454038502364

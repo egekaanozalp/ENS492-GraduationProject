@@ -1,0 +1,8 @@
+NÝÐDE ÇAMARDI Belediye Meclisi Seçilen Mahalleler
+
+c_BEREKETLI_MAH. = 0.5376584945166147
+c_MADEN_MAH. = 0.46234150548338526
+x_BEREKETLI_MAH. = 1.0
+x_MADEN_MAH. = 1.0
+
+Optimal objective value: 0.00036222532634577753

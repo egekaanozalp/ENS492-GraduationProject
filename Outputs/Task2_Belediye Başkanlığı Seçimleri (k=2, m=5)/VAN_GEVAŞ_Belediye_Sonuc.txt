@@ -1,0 +1,8 @@
+VAN GEVAÞ Belediyesi Seçilen Mahalleler
+
+c_ABALI_MAH. = 0.5013802030093575
+c_AYDINOCAK_MAH. = 0.4986197969906425
+x_ABALI_MAH. = 1.0
+x_AYDINOCAK_MAH. = 1.0
+
+Optimal objective value: 0.000574225475499679

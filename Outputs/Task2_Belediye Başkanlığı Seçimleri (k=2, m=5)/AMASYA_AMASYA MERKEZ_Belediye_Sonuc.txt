@@ -1,0 +1,7 @@
+AMASYA AMASYA MERKEZ Belediyesi Seçilen Mahalleler
+
+c_AKBILEK_MAH. = 1.0
+x_AKBILEK_MAH. = 1.0
+x_SEHIRUSTU_MAH. = 1.0
+
+Optimal objective value: 0.0006314686592501229

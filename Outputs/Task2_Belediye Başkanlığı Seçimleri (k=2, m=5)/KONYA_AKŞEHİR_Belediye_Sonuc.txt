@@ -1,0 +1,8 @@
+KONYA AKÞEHÝR Belediyesi Seçilen Mahalleler
+
+c_ADSIZ_MAH. = 0.33410926539108543
+c_MEYDAN_MAH. = 0.6658907346089146
+x_ADSIZ_MAH. = 1.0
+x_MEYDAN_MAH. = 1.0
+
+Optimal objective value: 0.0005366916307403269

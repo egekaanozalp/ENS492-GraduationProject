@@ -1,0 +1,8 @@
+GÜMÜÞHANE TORUL Belediye Meclisi Seçilen Mahalleler
+
+c_KOPRUBASI_MAH. = 0.2667742952641923
+c_MERKEZ_MAH. = 0.7332257047358077
+x_KOPRUBASI_MAH. = 1.0
+x_MERKEZ_MAH. = 1.0
+
+Optimal objective value: 0.0008973113166507174

@@ -1,0 +1,8 @@
+ÞIRNAK CÝZRE Belediye Meclisi Seçilen Mahalleler
+
+c_YAFES_MAH. = 0.9752347341613209
+c_SAH_MAH. = 0.024765265838679128
+x_YAFES_MAH. = 1.0
+x_SAH_MAH. = 1.0
+
+Optimal objective value: 0.0003660823650368794

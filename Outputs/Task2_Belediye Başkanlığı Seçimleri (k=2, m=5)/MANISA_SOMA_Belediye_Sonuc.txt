@@ -1,0 +1,8 @@
+MANISA SOMA Belediyesi Seçilen Mahalleler
+
+c_ADIL_MAH. = 0.31837879800019087
+c_HAMIDIYE_MAH. = 0.6816212019998091
+x_ADIL_MAH. = 1.0
+x_HAMIDIYE_MAH. = 1.0
+
+Optimal objective value: 0.0005653340314513144

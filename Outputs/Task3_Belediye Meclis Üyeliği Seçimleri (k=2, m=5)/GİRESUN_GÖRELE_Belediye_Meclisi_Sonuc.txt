@@ -1,0 +1,8 @@
+GÝRESUN GÖRELE Belediye Meclisi Seçilen Mahalleler
+
+c_BOZCAALI_MAH. = 0.9072903294700415
+c_UNLUCE_MAH. = 0.09270967052995849
+x_BOZCAALI_MAH. = 1.0
+x_UNLUCE_MAH. = 1.0
+
+Optimal objective value: 0.002796297275217685

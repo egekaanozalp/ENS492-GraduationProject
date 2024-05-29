@@ -1,0 +1,8 @@
+BILECIK PAZARYERÝ Belediyesi Seçilen Mahalleler
+
+c_YENI_MAH. = 0.4319610457881766
+c_CARSI_MAH. = 0.5680389542118234
+x_YENI_MAH. = 1.0
+x_CARSI_MAH. = 1.0
+
+Optimal objective value: 0.0009387876671372863

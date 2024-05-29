@@ -1,0 +1,7 @@
+HATAY YAYLADAÐI Belediyesi Seçilen Mahalleler
+
+c_SENKOY_MAH. = 1.0
+x_ARSLANYAZI_MAH. = 1.0
+x_SENKOY_MAH. = 1.0
+
+Optimal objective value: 0.014323291109802128

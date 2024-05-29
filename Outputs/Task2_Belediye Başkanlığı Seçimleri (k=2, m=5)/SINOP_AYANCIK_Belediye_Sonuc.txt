@@ -1,0 +1,8 @@
+SINOP AYANCIK Belediyesi Seçilen Mahalleler
+
+c_YALI_MAH. = 0.9408496769733469
+c_CAYICI_MAH. = 0.05915032302665313
+x_YALI_MAH. = 1.0
+x_CAYICI_MAH. = 1.0
+
+Optimal objective value: 0.000686908155296706

@@ -1,0 +1,8 @@
+MANÝSA SARUHANLI Belediye Meclisi Seçilen Mahalleler
+
+c_LUTFIYE_MAH. = 0.7726295856045782
+c_NURIYE_MAH. = 0.2273704143954218
+x_LUTFIYE_MAH. = 1.0
+x_NURIYE_MAH. = 1.0
+
+Optimal objective value: 0.0011655220533807187

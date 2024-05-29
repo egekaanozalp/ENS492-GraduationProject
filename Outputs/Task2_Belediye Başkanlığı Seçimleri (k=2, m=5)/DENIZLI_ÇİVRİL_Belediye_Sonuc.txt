@@ -1,0 +1,8 @@
+DENIZLI ÇÝVRÝL Belediyesi Seçilen Mahalleler
+
+c_YUVAKOY_MAH. = 0.5717974328003675
+c_ISHAKLI_MAH. = 0.42820256719963246
+x_YUVAKOY_MAH. = 1.0
+x_ISHAKLI_MAH. = 1.0
+
+Optimal objective value: 0.00084437707252627

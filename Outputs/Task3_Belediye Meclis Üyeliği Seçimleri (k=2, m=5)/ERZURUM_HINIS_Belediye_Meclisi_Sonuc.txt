@@ -1,0 +1,8 @@
+ERZURUM HINIS Belediye Meclisi Seçilen Mahalleler
+
+c_ALINTERI_MAH. = 0.3918745679142749
+c_ERENCE_MAH. = 0.6081254320857251
+x_ALINTERI_MAH. = 1.0
+x_ERENCE_MAH. = 1.0
+
+Optimal objective value: 0.011144679546823077

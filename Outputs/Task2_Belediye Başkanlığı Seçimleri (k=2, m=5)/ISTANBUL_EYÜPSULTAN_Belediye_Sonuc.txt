@@ -1,0 +1,7 @@
+ISTANBUL EYÜPSULTAN Belediyesi Seçilen Mahalleler
+
+c_CIRCIR_MAH. = 1.0
+x_SILAHTARAGA_MAH. = 1.0
+x_CIRCIR_MAH. = 1.0
+
+Optimal objective value: 0.0009212504195542648

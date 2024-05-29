@@ -1,0 +1,8 @@
+BURDUR AÐLASUN Belediyesi Seçilen Mahalleler
+
+c_KUM_MAH. = 0.39443656598259125
+c_SAKARCA_MAH. = 0.6055634340174088
+x_KUM_MAH. = 1.0
+x_SAKARCA_MAH. = 1.0
+
+Optimal objective value: 0.0009758768229265469

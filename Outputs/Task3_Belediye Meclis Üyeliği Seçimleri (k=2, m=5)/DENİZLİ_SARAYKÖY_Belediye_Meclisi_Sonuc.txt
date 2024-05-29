@@ -1,0 +1,8 @@
+DENÝZLÝ SARAYKÖY Belediye Meclisi Seçilen Mahalleler
+
+c_AHMETLI_MAH. = 0.35113211088060203
+c_HASKOY_MAH. = 0.648867889119398
+x_AHMETLI_MAH. = 1.0
+x_HASKOY_MAH. = 1.0
+
+Optimal objective value: 0.0008293164074844039

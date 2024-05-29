@@ -1,0 +1,8 @@
+ÝZMÝR BORNOVA Belediye Meclisi Seçilen Mahalleler
+
+c_ATATURK_MAH. = 0.23188427001314438
+c_CINAR_MAH. = 0.7681157299868556
+x_ATATURK_MAH. = 1.0
+x_CINAR_MAH. = 1.0
+
+Optimal objective value: 0.0019513890128877165

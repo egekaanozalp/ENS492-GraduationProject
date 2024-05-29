@@ -1,0 +1,8 @@
+MARDÝN SAVUR Belediye Meclisi Seçilen Mahalleler
+
+c_KOCAHUYUK_MAH. = 0.2850922101555393
+c_UCERLI_MAH. = 0.7149077898444607
+x_KOCAHUYUK_MAH. = 1.0
+x_UCERLI_MAH. = 1.0
+
+Optimal objective value: 0.001112001572271537

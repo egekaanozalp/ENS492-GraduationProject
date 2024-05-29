@@ -1,0 +1,7 @@
+TOKAT ALMUS - ÇEVRELÝ Belediyesi Seçilen Mahalleler
+
+c_CEVRELI-HURRIYET_MAH. = 1.0
+x_CEVRELI-BIRLIK_MAH. = 1.0
+x_CEVRELI-HURRIYET_MAH. = 1.0
+
+Optimal objective value: 0.04156020411162187

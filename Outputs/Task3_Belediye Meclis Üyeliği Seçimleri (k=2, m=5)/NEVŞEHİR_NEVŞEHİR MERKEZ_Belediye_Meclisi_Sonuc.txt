@@ -1,0 +1,8 @@
+NEVÞEHÝR NEVÞEHÝR MERKEZ Belediye Meclisi Seçilen Mahalleler
+
+c_EMEK_MAH. = 0.6850475218665506
+c_SUMER_MAH. = 0.31495247813344934
+x_EMEK_MAH. = 1.0
+x_SUMER_MAH. = 1.0
+
+Optimal objective value: 0.000490523895218864

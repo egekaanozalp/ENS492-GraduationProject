@@ -1,0 +1,8 @@
+GAZÝANTEP OÐUZELÝ Belediye Meclisi Seçilen Mahalleler
+
+c_FATIH_MAH. = 0.5693059925047286
+c_SAHINBEY_MAH. = 0.43069400749527137
+x_FATIH_MAH. = 1.0
+x_SAHINBEY_MAH. = 1.0
+
+Optimal objective value: 0.001149005964670824

@@ -1,0 +1,8 @@
+GIRESUN PÝRAZÝZ Belediyesi Seçilen Mahalleler
+
+c_EREN_MAH. = 0.724806989653876
+c_SEYHLI_MAH. = 0.27519301034612403
+x_EREN_MAH. = 1.0
+x_SEYHLI_MAH. = 1.0
+
+Optimal objective value: 0.00039669858679558523

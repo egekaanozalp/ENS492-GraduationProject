@@ -1,0 +1,8 @@
+DÝYARBAKIR LÝCE Belediye Meclisi Seçilen Mahalleler
+
+c_AKCABUDAK_MAH. = 0.16119724886788903
+c_CEPER_MAH. = 0.838802751132111
+x_AKCABUDAK_MAH. = 1.0
+x_CEPER_MAH. = 1.0
+
+Optimal objective value: 0.0003052995408130421

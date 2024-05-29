@@ -1,0 +1,8 @@
+GIRESUN ÇANAKÇI Belediyesi Seçilen Mahalleler
+
+c_BEYLI_MAH. = 0.3765870554539317
+c_ORTA_MAH. = 0.6234129445460683
+x_BEYLI_MAH. = 1.0
+x_ORTA_MAH. = 1.0
+
+Optimal objective value: 0.0001223055453428712

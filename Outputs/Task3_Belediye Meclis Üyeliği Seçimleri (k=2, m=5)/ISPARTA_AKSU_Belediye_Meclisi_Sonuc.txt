@@ -1,0 +1,8 @@
+ISPARTA AKSU Belediye Meclisi Seçilen Mahalleler
+
+c_CAY_MAH. = 0.43321869797278345
+c_ISTIKLAL_MAH. = 0.5667813020272165
+x_CAY_MAH. = 1.0
+x_ISTIKLAL_MAH. = 1.0
+
+Optimal objective value: 0.004542164879426935

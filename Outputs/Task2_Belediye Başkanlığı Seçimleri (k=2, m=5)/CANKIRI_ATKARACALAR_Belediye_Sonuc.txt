@@ -1,0 +1,7 @@
+CANKIRI ATKARACALAR Belediyesi Seçilen Mahalleler
+
+c_ILKER_MAH. = 1.0
+x_MOLLAOSMAN_MAH. = 1.0
+x_ILKER_MAH. = 1.0
+
+Optimal objective value: 0.024708076149948743

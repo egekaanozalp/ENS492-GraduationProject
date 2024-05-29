@@ -1,0 +1,8 @@
+ISPARTA GÖNEN Belediyesi Seçilen Mahalleler
+
+c_CAMI_MAH. = 0.16333456413808423
+c_KASAP_MAH. = 0.8366654358619158
+x_CAMI_MAH. = 1.0
+x_KASAP_MAH. = 1.0
+
+Optimal objective value: 0.0003218328164502626

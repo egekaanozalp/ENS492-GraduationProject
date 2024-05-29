@@ -1,0 +1,8 @@
+AMASYA TAÞOVA Belediye Meclisi Seçilen Mahalleler
+
+c_TEPE_MAH. = 0.5002956957038883
+c_YEMISEN_MAH. = 0.4997043042961117
+x_TEPE_MAH. = 1.0
+x_YEMISEN_MAH. = 1.0
+
+Optimal objective value: 0.0005094635706055506

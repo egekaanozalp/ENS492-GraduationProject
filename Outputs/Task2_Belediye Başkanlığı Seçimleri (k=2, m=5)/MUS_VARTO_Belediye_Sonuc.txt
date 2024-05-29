@@ -1,0 +1,8 @@
+MUS VARTO Belediyesi Seçilen Mahalleler
+
+c_GUMGUM_MAH. = 0.7665679871300521
+c_INONU_MAH. = 0.2334320128699478
+x_GUMGUM_MAH. = 1.0
+x_INONU_MAH. = 1.0
+
+Optimal objective value: 0.003312264537434162

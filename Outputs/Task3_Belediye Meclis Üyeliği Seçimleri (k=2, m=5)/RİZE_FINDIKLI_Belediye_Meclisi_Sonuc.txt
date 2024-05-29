@@ -1,0 +1,8 @@
+RÝZE FINDIKLI Belediye Meclisi Seçilen Mahalleler
+
+c_AKSU_MAH. = 0.8628648803694918
+c_HURRIYET_MAH. = 0.13713511963050815
+x_AKSU_MAH. = 1.0
+x_HURRIYET_MAH. = 1.0
+
+Optimal objective value: 0.0004359801815049247

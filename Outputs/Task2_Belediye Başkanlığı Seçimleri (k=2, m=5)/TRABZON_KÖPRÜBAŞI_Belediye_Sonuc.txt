@@ -1,0 +1,8 @@
+TRABZON KÖPRÜBAÞI Belediyesi Seçilen Mahalleler
+
+c_BESKOY_MAH. = 0.2688305089839279
+c_GUNDOGAN_MAH. = 0.7311694910160721
+x_BESKOY_MAH. = 1.0
+x_GUNDOGAN_MAH. = 1.0
+
+Optimal objective value: 0.0440797355488205

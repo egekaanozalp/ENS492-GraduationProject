@@ -1,0 +1,8 @@
+KONYA YALIHÜYÜK Belediyesi Seçilen Mahalleler
+
+c_ASAGI_MAH. = 0.65494755095332
+c_YUKARI_MAH. = 0.34505244904668
+x_ASAGI_MAH. = 1.0
+x_YUKARI_MAH. = 1.0
+
+Optimal objective value: 0.0008894094672901032

@@ -1,0 +1,8 @@
+DIYARBAKIR YENÝÞEHÝR Belediyesi Seçilen Mahalleler
+
+c_AL_MAH. = 0.2340806929931314
+c_SEHITLIK_MAH. = 0.7659193070068686
+x_AL_MAH. = 1.0
+x_SEHITLIK_MAH. = 1.0
+
+Optimal objective value: 0.0011125778740940229

@@ -1,0 +1,8 @@
+SIVAS DÝVRÝÐÝ Belediyesi Seçilen Mahalleler
+
+c_CEDITPASA_MAH. = 0.282639714409063
+c_KARAMAHMUT_MAH. = 0.717360285590937
+x_CEDITPASA_MAH. = 1.0
+x_KARAMAHMUT_MAH. = 1.0
+
+Optimal objective value: 4.56549899782166e-05

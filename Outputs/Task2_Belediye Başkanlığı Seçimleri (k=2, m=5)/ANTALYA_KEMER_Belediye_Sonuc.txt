@@ -1,0 +1,8 @@
+ANTALYA KEMER Belediyesi Seçilen Mahalleler
+
+c_GOYNUK_MAH. = 0.6747216060216359
+c_KIRIS_MAH. = 0.32527839397836406
+x_GOYNUK_MAH. = 1.0
+x_KIRIS_MAH. = 1.0
+
+Optimal objective value: 0.0015948307880884194

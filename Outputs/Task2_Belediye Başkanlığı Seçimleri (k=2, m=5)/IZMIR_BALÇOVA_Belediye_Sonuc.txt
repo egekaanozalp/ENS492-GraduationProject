@@ -1,0 +1,7 @@
+IZMIR BALÇOVA Belediyesi Seçilen Mahalleler
+
+c_CETIN_EMEC_MAH. = 1.0
+x_CETIN_EMEC_MAH. = 1.0
+x_INCIRALTI_MAH. = 1.0
+
+Optimal objective value: 0.0015827034977249355

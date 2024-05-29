@@ -1,0 +1,8 @@
+SIRNAK SÝLOPÝ Belediyesi Seçilen Mahalleler
+
+c_NUH_MAH. = 0.3850843990106115
+c_SHT._HARUN_BOY_MAH. = 0.6149156009893886
+x_NUH_MAH. = 1.0
+x_SHT._HARUN_BOY_MAH. = 1.0
+
+Optimal objective value: 0.0014045010604932795

@@ -1,0 +1,8 @@
+MARDÝN ARTUKLU Belediye Meclisi Seçilen Mahalleler
+
+c_ESKIKALE_MAH. = 0.18619553645440645
+c_CABUK_MAH. = 0.8138044635455935
+x_ESKIKALE_MAH. = 1.0
+x_CABUK_MAH. = 1.0
+
+Optimal objective value: 0.0005282493913539854

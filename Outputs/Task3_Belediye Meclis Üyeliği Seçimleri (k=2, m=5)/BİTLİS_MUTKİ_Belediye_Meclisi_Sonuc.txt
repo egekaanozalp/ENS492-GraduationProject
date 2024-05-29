@@ -1,0 +1,8 @@
+BÝTLÝS MUTKÝ Belediye Meclisi Seçilen Mahalleler
+
+c_PINARBASI_MAH. = 0.45323785601101624
+c_TASLI_PINAR_MAH. = 0.5467621439889838
+x_PINARBASI_MAH. = 1.0
+x_TASLI_PINAR_MAH. = 1.0
+
+Optimal objective value: 0.0906288539434914

@@ -1,0 +1,8 @@
+KONYA ÇUMRA Belediye Meclisi Seçilen Mahalleler
+
+c_KARKIN_MAH. = 0.6013014343750464
+c_MEYDAN_MAH. = 0.39869856562495365
+x_KARKIN_MAH. = 1.0
+x_MEYDAN_MAH. = 1.0
+
+Optimal objective value: 0.0008623097540738645

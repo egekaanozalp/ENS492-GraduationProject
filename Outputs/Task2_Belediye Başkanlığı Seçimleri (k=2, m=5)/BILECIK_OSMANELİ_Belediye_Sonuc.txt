@@ -1,0 +1,7 @@
+BILECIK OSMANELÝ Belediyesi Seçilen Mahalleler
+
+c_HACELOGLU_MAH. = 1.0
+x_HACELOGLU_MAH. = 1.0
+x_INONU_MAH. = 1.0
+
+Optimal objective value: 0.05749731273322245
